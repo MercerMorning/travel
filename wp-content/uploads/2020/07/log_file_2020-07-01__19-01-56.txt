@@ -1,0 +1,128 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://u1091152.isp.regruhosting.ru
+Data file = /var/www/u1091152/data/www/u1091152.isp.regruhosting.ru/wp-content/themes/grandtour/cache/demos/xml/demo1/1.xml
+Widget file = /var/www/u1091152/data/www/u1091152.isp.regruhosting.ru/wp-content/themes/grandtour/cache/demos/xml/demo1/1.wie
+Customizer file = /var/www/u1091152/data/www/u1091152.isp.regruhosting.ru/wp-content/themes/grandtour/cache/demos/xml/demo1/1.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Page Sidebar : 
+
+Форма регистрации MailChimp - Newsletter - Imported
+Custom Category Posts - No Title - Imported
+Custom Instagram - Recent Trips - Imported
+Custom Social Profiles - Connect to Us - Imported
+
+Side Menu Sidebar : 
+
+Custom Tour Posts - No Title - Imported
+
+Blog Sidebar : 
+
+Форма регистрации MailChimp - Newsletter - Imported
+Custom Category Posts - No Title - Imported
+Custom Instagram - Recent Trips - Imported
+Custom Social Profiles - Connect to Us - Imported
+Custom Tour Posts - No Title - Imported
+
+Single Post Sidebar : 
+
+Форма регистрации MailChimp - Newsletter - Imported
+Custom Category Posts - No Title - Imported
+Custom Instagram - Recent Trips - Imported
+Custom Social Profiles - Connect to Us - Imported
+Custom Tour Posts - No Title - Imported
+
+Category Sidebar : 
+
+Форма регистрации MailChimp - Newsletter - Imported
+Custom Category Posts - No Title - Imported
+Custom Instagram - Recent Trips - Imported
+Custom Social Profiles - Connect to Us - Imported
+
+Search Sidebar : 
+
+Custom Category Posts - No Title - Imported
+Облако меток - No Title - Imported
+
+Tag Sidebar : 
+
+Форма регистрации MailChimp - Newsletter - Imported
+Custom Category Posts - No Title - Imported
+Custom Instagram - Recent Trips - Imported
+Custom Social Profiles - Connect to Us - Imported
+
+Footer Sidebar : 
+
+Текст - Our Awards - Imported
+Текст - Contact Info - Imported
+Custom Instagram - Recent Trips - Imported
+
+Single Tour Sidebar : 
+
+Текст - For More Informations - Imported
+Custom Tour Posts - No Title - Imported
+
+Shop Sidebar : 
+
+Форма регистрации MailChimp - Newsletter - Imported
+Custom Tour Posts - No Title - Imported
+
+Tour Sidebar : 
+
+Custom Category Posts - No Title - Imported
+Custom Instagram - Recent Trips - Imported
+Custom Social Profiles - Connect to Us - Imported
+Custom Tour Posts - Recent Tours - Imported
+
+Destination Sidebar : 
+
+Custom Category Posts - No Title - Imported
+Custom Instagram - Recent Trips - Imported
+
+Destination List Sidebar : 
+
+Custom Category Posts - No Title - Imported
+Форма регистрации MailChimp - Newsletter - Imported
+Custom Tour Posts - No Title - Imported
+
+FAQ Sidebar : 
+
+Текст - Can&#039;t Find Answer? Ask Us - Imported
+Текст - For More Informations - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

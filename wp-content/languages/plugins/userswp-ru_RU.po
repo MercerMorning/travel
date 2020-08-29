@@ -1,0 +1,1499 @@
+# Translation of Plugins - UsersWP &#8211; User Profile &amp; Registration - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - UsersWP &#8211; User Profile &amp; Registration - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-24 14:55:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - UsersWP &#8211; User Profile &amp; Registration - Stable (latest release)\n"
+
+#: templates/bootstrap/dashboard-simple.php:11
+#: templates/dashboard-simple.php:11
+msgid "Logged in as "
+msgstr "Вы вошли как"
+
+#: templates/bootstrap/reset.php:43 templates/bootstrap/forgot.php:53
+#: templates/bootstrap/login.php:57 templates/reset.php:23
+#: templates/forgot.php:18 templates/login.php:23
+msgid "Create account"
+msgstr "Регистрация"
+
+#: templates/reset.php:23 templates/forgot.php:18 templates/login.php:23
+msgid "Not a member?"
+msgstr "Вы не являетесь пользователем?"
+
+#: includes/libraries/class-invoicing-plugin.php:213
+msgid "Invoice Total: "
+msgstr "Сумма счета:"
+
+#: includes/libraries/class-invoicing-plugin.php:208
+msgid "(r)"
+msgstr "(r)"
+
+#: includes/libraries/class-invoicing-plugin.php:208
+msgid "Invoice Status: "
+msgstr "Статус счета:"
+
+#: includes/libraries/class-invoicing-plugin.php:196
+msgid "Invoice"
+msgstr "Счет"
+
+#: includes/libraries/class-geodirectory-plugin.php:1840
+msgid "Status: "
+msgstr "Статус:"
+
+#: includes/libraries/class-geodirectory-plugin.php:1835
+msgid "Not published"
+msgstr "Не опубликовано"
+
+#: includes/libraries/class-geodirectory-plugin.php:1823
+msgid "Published"
+msgstr "Опубликовано"
+
+#: templates/bootstrap/loop-comments.php:29 includes/helpers/tabs.php:87
+msgid "No %s found"
+msgstr "Не найдено %s "
+
+#: includes/libraries/class-geodirectory-plugin.php:1147
+#: includes/libraries/class-geodirectory-plugin.php:1360
+#: includes/libraries/class-geodirectory-plugin.php:1567
+msgid "Delete Listing"
+msgstr "Удалить список"
+
+#: includes/libraries/class-geodirectory-plugin.php:1143
+#: includes/libraries/class-geodirectory-plugin.php:1356
+#: includes/libraries/class-geodirectory-plugin.php:1563
+msgid "Edit"
+msgstr "Редактировать"
+
+#: includes/libraries/class-geodirectory-plugin.php:1138
+#: includes/libraries/class-geodirectory-plugin.php:1351
+#: includes/libraries/class-geodirectory-plugin.php:1558
+msgid "Edit Listing"
+msgstr "Редактировать список"
+
+#: includes/libraries/class-invoicing-plugin.php:98
+#: includes/libraries/class-invoicing-plugin.php:167
+msgid "Invoices"
+msgstr "Счета-фактуры"
+
+#: upgrade.php:95 includes/libraries/class-geodirectory-plugin.php:308
+#: includes/libraries/class-geodirectory-plugin.php:350
+msgid "Favorites"
+msgstr "Избранное"
+
+#: upgrade.php:87 includes/libraries/class-geodirectory-plugin.php:307
+#: includes/libraries/class-geodirectory-plugin.php:340
+#: includes/libraries/class-geodirectory-plugin.php:1411
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: upgrade.php:79 includes/libraries/class-geodirectory-plugin.php:306
+#: includes/libraries/class-geodirectory-plugin.php:330
+msgid "Listings"
+msgstr "Списки"
+
+#: includes/libraries/class-geodirectory-plugin.php:248
+msgid "Choose the post types to show favorites tab in UsersWP Profile"
+msgstr "Выберите типы сообщений, чтобы отобразить вкладку «Избранное» в профиле UsersWP."
+
+#: includes/libraries/class-geodirectory-plugin.php:239
+msgid "Choose the post types to show reviews tab in UsersWP Profile"
+msgstr "Выберите типы сообщений, чтобы отобразить вкладку отзывов в профиле UsersWP."
+
+#: includes/libraries/class-geodirectory-plugin.php:230
+msgid "Choose the post types to show listings tab in UsersWP Profile"
+msgstr "Выберите типы сообщений, чтобы отобразить вкладку «Списки» в профиле UsersWP."
+
+#: includes/libraries/class-geodirectory-plugin.php:199
+msgid "GeoDirectory"
+msgstr "GeoDirectory"
+
+#: includes/libraries/class-geodirectory-plugin.php:223
+msgid "GeoDirectory Settings"
+msgstr "Настройки GeoDirectory "
+
+#: templates/bootstrap/dashboard-simple.php:17
+#: templates/bootstrap/dashboard.php:34 templates/dashboard-simple.php:17
+#: templates/dashboard.php:32 includes/class-forms.php:3039
+msgid "Logout"
+msgstr "Выйти"
+
+#: includes/class-templates.php:1133
+msgid "Make the whole profile private"
+msgstr "Сделать весь профиль приватным"
+
+#: includes/class-templates.php:1118
+msgid "Hide profile from the users listing page."
+msgstr "Скрыть профиль на странице списка пользователей."
+
+#: admin/settings/class-uwp-settings-general.php:98
+#: admin/settings/class-uwp-settings-general.php:220
+msgid "Last User Page"
+msgstr "Последняя страница пользователя"
+
+#: includes/class-forms.php:845
+msgid "To reset your password, click the following link and follow the instructions."
+msgstr "Для сброса Вашего пароля нажмите эту ссылку и следуйте инструкциям."
+
+#: includes/class-forms.php:841
+msgid "You have requested to reset your password for the following account:"
+msgstr "Вы запросили сброс пароля для следующей учетной записи:"
+
+#: admin/settings/class-formbuilder.php:1249
+#: admin/settings/class-uwp-settings-profile-tabs.php:761
+#: admin/class-admin-setup-wizard.php:408 includes/class-tools.php:841
+msgid "Remove"
+msgstr "Удалить"
+
+#: admin/settings/class-uwp-settings-emails.php:250
+msgid "Change password email"
+msgstr "Изменить пароль"
+
+#: admin/settings/class-uwp-settings-general.php:343
+msgid "Recommended image size: 150x150"
+msgstr "Рекомендуемый размер изображения: 150x150"
+
+#: admin/settings/class-uwp-settings-general.php:342
+msgid "Default profile image"
+msgstr "Изображение профиля по умолчанию"
+
+#: admin/settings/class-uwp-settings-general.php:335
+msgid "Recommended image size: 1000x300"
+msgstr "Рекомендуемый размер изображения: 1000x300"
+
+#: admin/settings/class-uwp-settings-general.php:334
+msgid "Default banner image"
+msgstr "Изображение баннера по умолчанию"
+
+#: includes/class-forms.php:2346
+msgid "Username or Email"
+msgstr "Имя пользователя или адрес электронной почты"
+
+#: admin/settings/class-formbuilder.php:939
+msgid "If yes is selected then only site admin can see and edit this field."
+msgstr "Если выберите \"да\", то только администратор сайта может видеть и редактировать это поле."
+
+#: admin/settings/class-formbuilder.php:940
+msgid "For admin use only? :"
+msgstr "Только для администратора? :"
+
+#: admin/settings/class-uwp-settings-general.php:265
+msgid "Redirect wp-login.php?"
+msgstr "Перенаправить wp-login.php?"
+
+#: includes/class-tools.php:795
+msgid "Fixes User Data if you were using the Beta version."
+msgstr "Исправляет данные пользователя, если вы использовали бета-версию."
+
+#: includes/class-tools.php:794
+msgid "Fix User Data"
+msgstr "Исправить данные пользователя"
+
+#: admin/class-admin-setup-wizard.php:320
+msgid "Action"
+msgstr "Действие"
+
+#: admin/views/html-admin-page-status.php:13
+msgid "Tools"
+msgstr "Инструменты"
+
+#: includes/class-tools.php:211 includes/class-tools.php:305
+#: includes/class-tools.php:569
+msgid "Processed Successfully"
+msgstr "Успешно обработан"
+
+#: admin/settings/class-uwp-settings-emails.php:80
+msgid "New account registration"
+msgstr "Регистрация нового аккаунта"
+
+#: admin/settings/class-formbuilder.php:2175
+msgid "This field is applicable only for register form."
+msgstr "Это поле применимо только для регистрационной формы."
+
+#: admin/settings/class-formbuilder.php:2152
+msgid "This is mandatory register form field."
+msgstr "Это обязательное поле регистрационной формы."
+
+#: includes/helpers/misc.php:1545
+msgid "Fieldset"
+msgstr "Набор полей"
+
+#: includes/class-tools.php:779 includes/class-tools.php:798
+#: includes/class-tools.php:817
+msgid "Run"
+msgstr "Run"
+
+#. Author of the plugin
+msgid "AyeCode Ltd"
+msgstr "AyeCode Ltd"
+
+#. Plugin URI of the plugin
+msgid "https://userswp.io/"
+msgstr "https://userswp.io/"
+
+#: admin/settings/class-uwp-settings-general.php:246
+msgid "Login Redirect Page"
+msgstr "Страница перенаправления Входа"
+
+#. Author URI of the plugin
+msgid "https://userswp.io"
+msgstr "https://userswp.io"
+
+#: templates/bootstrap/login.php:61 templates/login.php:24
+msgid "Forgot password?"
+msgstr "Забыли пароль?"
+
+#: templates/bootstrap/login.php:45 templates/login.php:16
+msgid "Remember Me"
+msgstr "Запомнить меня"
+
+#: templates/bootstrap/register.php:43 templates/register.php:15
+msgid "Create Account"
+msgstr "Создать аккаунт"
+
+#: includes/class-pages.php:443
+msgctxt "page_slug"
+msgid "users"
+msgstr "пользователи"
+
+#: includes/class-pages.php:442
+msgctxt "page_slug"
+msgid "profile"
+msgstr "профиль"
+
+#: includes/class-pages.php:441
+msgctxt "page_slug"
+msgid "change"
+msgstr "изменить"
+
+#: templates/bootstrap/reset.php:15 templates/reset.php:8
+#: includes/class-pages.php:440 widgets/reset.php:47 widgets/reset.php:95
+msgid "Reset Password"
+msgstr "Сброс пароля"
+
+#: includes/class-pages.php:440
+msgctxt "page_slug"
+msgid "reset"
+msgstr "сбросить"
+
+#: templates/bootstrap/forgot.php:8 templates/forgot.php:8
+#: includes/class-pages.php:439 widgets/forgot.php:47 widgets/forgot.php:95
+msgid "Forgot Password?"
+msgstr "Забыли пароль?"
+
+#: includes/class-pages.php:439
+msgctxt "page_slug"
+msgid "forgot"
+msgstr "забыл(а)"
+
+#: includes/class-pages.php:438
+msgctxt "page_slug"
+msgid "account"
+msgstr "учетная запись"
+
+#: includes/class-pages.php:437
+msgctxt "page_slug"
+msgid "login"
+msgstr "авторизоваться"
+
+#: includes/class-pages.php:436
+msgctxt "page_slug"
+msgid "register"
+msgstr "регистрация"
+
+#: includes/class-forms.php:3157
+msgid "Confirm Email"
+msgstr "Подтвердить электронную почту"
+
+#: includes/helpers/misc.php:1358 includes/class-notices.php:74
+msgid "Something went wrong."
+msgstr "Что-то пошло не так."
+
+#: includes/class-notices.php:70
+msgid "Invalid activation key or account."
+msgstr "Ошибочный ключ активации или учетная запись."
+
+#: admin/settings/class-uwp-settings-general.php:133
+msgid "Registration Action"
+msgstr "Действие регистрации"
+
+#: includes/class-pages.php:307
+msgid "Select a Page"
+msgstr "Выберите страницу"
+
+#: templates/bootstrap/reset.php:30 templates/bootstrap/forgot.php:45
+#: templates/bootstrap/change.php:29 templates/reset.php:15
+#: templates/forgot.php:14 templates/change.php:13
+#: includes/class-templates.php:1139 includes/class-user-notifications.php:69
+msgid "Submit"
+msgstr "Отправить"
+
+#: includes/class-templates.php:1032
+msgid "Field"
+msgstr "Поле"
+
+#: includes/helpers/misc.php:572 includes/helpers/tabs.php:131
+#: includes/class-templates.php:1070
+msgid "Privacy"
+msgstr "Конфиденциальность"
+
+#: admin/class-admin.php:312
+msgid "Upload Banner"
+msgstr "Загрузить баннер"
+
+#: admin/class-admin.php:310
+msgid "Change Banner"
+msgstr "Изменить баннер"
+
+#: admin/class-admin.php:300
+msgid "Upload Avatar"
+msgstr "Загрузить аватор"
+
+#: admin/class-admin.php:298
+msgid "Change Avatar"
+msgstr "Изменить аватор"
+
+#: admin/class-admin.php:237
+msgid "You can change your profile picture on your <a href=\"%s\">Profile Page</a>."
+msgstr "Вы можете изменить свой профиль на своей <a href=\"%s\">странице профиля</a>."
+
+#: admin/settings/class-uwp-settings-uninstall.php:28
+msgid "Uninstall"
+msgstr "Удалить"
+
+#: admin/settings/class-uwp-settings-general.php:74
+#: admin/settings/class-uwp-settings-import-export.php:64
+#: includes/class-pages.php:443
+msgid "Users"
+msgstr "Пользователи"
+
+#: admin/settings/class-uwp-settings-general.php:73
+#: templates/bootstrap/change.php:39 templates/change.php:15
+#: includes/class-pages.php:442
+msgid "Profile"
+msgstr "Профиль"
+
+#: includes/class-files.php:367
+msgid "Remove File"
+msgstr "Удалить файл"
+
+#: admin/settings/class-settings.php:354 includes/class-files.php:358
+msgid "Remove Image"
+msgstr "Удалить изображение"
+
+#: includes/class-files.php:202
+msgid "Uploaded files need to be one of the following file types: %s"
+msgstr "Загруженные файлы должны быть одного из следующих типов файлов: %s"
+
+#: includes/class-files.php:200
+msgid "\"%s\" (filetype %s) needs to be one of the following file types: %s"
+msgstr "\"%s\" (filetype %s) должен быть одним из следующих типов файлов: %s"
+
+#: includes/class-date.php:193
+msgctxt "December abbreviation"
+msgid "Dec"
+msgstr "Дек"
+
+#: includes/class-date.php:192
+msgctxt "November abbreviation"
+msgid "Nov"
+msgstr "Ноя"
+
+#: includes/class-date.php:191
+msgctxt "October abbreviation"
+msgid "Oct"
+msgstr "Окт"
+
+#: includes/class-date.php:190
+msgctxt "September abbreviation"
+msgid "Sep"
+msgstr "Сен"
+
+#: includes/class-date.php:189
+msgctxt "August abbreviation"
+msgid "Aug"
+msgstr "Авг"
+
+#: includes/class-date.php:188
+msgctxt "July abbreviation"
+msgid "Jul"
+msgstr "Июль"
+
+#: includes/class-date.php:187
+msgctxt "June abbreviation"
+msgid "Jun"
+msgstr "Июнь"
+
+#: includes/class-date.php:186
+msgctxt "May abbreviation"
+msgid "May"
+msgstr "Май"
+
+#: includes/class-date.php:185
+msgctxt "April abbreviation"
+msgid "Apr"
+msgstr "Апр"
+
+#: includes/class-date.php:184
+msgctxt "March abbreviation"
+msgid "Mar"
+msgstr "Мар"
+
+#: includes/class-account.php:32
+msgid "Update Account"
+msgstr "Обновить учетную запись"
+
+#: templates/bootstrap/users-actions.php:12 templates/users-actions.php:35
+msgid "Z-A"
+msgstr "Я-А"
+
+#: templates/bootstrap/users-actions.php:11 templates/users-actions.php:34
+msgid "A-Z"
+msgstr "А-Я"
+
+#: templates/users-actions.php:31
+msgid "Sort By:"
+msgstr "Сортировка по:"
+
+#: templates/users-actions.php:33
+msgid "Older"
+msgstr "Старым"
+
+#: templates/users-actions.php:32
+msgid "Newer"
+msgstr "Новым"
+
+#: templates/users-actions.php:23
+msgid "Grid 5 Col"
+msgstr "Сетка 5 кол."
+
+#: templates/users-actions.php:22
+msgid "Grid 4 Col"
+msgstr "Сетка 4 кол."
+
+#: templates/users-actions.php:21
+msgid "Grid 3 Col"
+msgstr "Сетка 3 кол."
+
+#: templates/users-actions.php:20
+msgid "Grid 2 Col"
+msgstr "Сетка 2 кол."
+
+#: includes/class-profile.php:1603
+msgid "No fields available"
+msgstr "Нет доступных полей"
+
+#: includes/class-profile.php:1541
+msgid "The uploaded file is too small. Minimum image height should be %s px"
+msgstr "Загруженный файл слишком мал. Минимальная высота изображения должна быть %s px"
+
+#: includes/class-profile.php:1538
+msgid "The uploaded file is too small. Minimum image width should be %s px"
+msgstr "Загруженный файл слишком мал. Минимальная ширина изображения должна быть %s px"
+
+#. Plugin Name of the plugin
+#: admin/menus/class-menus.php:289 admin/class-uwp-admin-menus.php:79
+#: includes/class-uwp-privacy.php:17
+msgid "UsersWP"
+msgstr "UsersWP"
+
+#: includes/class-forms.php:844
+msgid "If this was by mistake, just ignore this email and nothing will happen."
+msgstr "Если это пришло Вам по ошибке, просто проигнорируйте это письмо."
+
+#: includes/class-forms.php:829
+msgid "Password: %s"
+msgstr "Пароль: %s"
+
+#: includes/class-forms.php:828 includes/class-forms.php:843
+msgid "Username: %s"
+msgstr "Имя пользователя: %s"
+
+#: includes/class-forms.php:491 includes/class-forms.php:827
+msgid "Your login Information :"
+msgstr "Ваша информация для входа:"
+
+#: includes/class-validation.php:232
+msgid "<strong>Error</strong>: This username is invalid because it uses illegal characters. Please enter a valid username."
+msgstr "<strong>Ошибка</strong>: Это имя пользователя недопустимо, поскольку оно использует запрещённые символы. Пожалуйста введите корректное имя пользователя."
+
+#: admin/settings/class-uwp-settings-general.php:273
+msgid "Logout Redirect Page"
+msgstr "Страница перенаправления выхода"
+
+#: admin/settings/class-uwp-settings-general.php:161
+msgid "Register TOS Page"
+msgstr "Регистрация страницы TOS"
+
+#: admin/settings/class-uwp-settings-general.php:142
+msgid "Register Redirect Page"
+msgstr "Регистрация страницы перенаправления"
+
+#: includes/class-templates.php:1035
+msgid "Is Public?"
+msgstr "Сделать общественным?"
+
+#: admin/class-uwp-admin-menus.php:90 admin/class-uwp-admin-menus.php:91
+msgid "Form Builder"
+msgstr "Строитель форм"
+
+#: admin/settings/class-uwp-settings-general.php:72
+#: templates/bootstrap/change.php:15 includes/class-pages.php:441
+#: widgets/change.php:47 widgets/change.php:95
+msgid "Change Password"
+msgstr "Изменить пароль"
+
+#: admin/settings/class-uwp-settings-general.php:71
+#: templates/bootstrap/register.php:49 templates/bootstrap/reset.php:39
+#: templates/bootstrap/forgot.php:49 templates/bootstrap/login.php:8
+#: templates/bootstrap/login.php:50 templates/login.php:7
+#: templates/login.php:20 includes/class-emails.php:298
+#: includes/class-pages.php:437 widgets/login.php:50 widgets/login.php:130
+msgid "Login"
+msgstr "Логин"
+
+#: admin/settings/class-uwp-settings-general.php:28
+msgid "General"
+msgstr "Общее"
+
+#: includes/class-validation.php:347
+msgid "ERROR: Passwords do not match."
+msgstr "ОШИБКА: Пароли не совпадают."
+
+#: includes/class-validation.php:315
+msgid "Please enter a password"
+msgstr "Пожалуйста введите пароль"
+
+#: includes/class-validation.php:306
+msgid "<strong>Error</strong>: Email and Confirm email not match"
+msgstr "<strong>Ошибка</strong>: Электронная почта и подтверждающая электронная почта не совпадают"
+
+#: includes/class-date.php:155
+msgid "June"
+msgstr "Июнь"
+
+#: includes/class-date.php:154
+msgid "May"
+msgstr "Май"
+
+#: includes/class-date.php:153
+msgid "April"
+msgstr "Апрель"
+
+#: includes/class-date.php:152
+msgid "March"
+msgstr "Март"
+
+#: includes/class-date.php:151
+msgid "February"
+msgstr "Февраль"
+
+#: includes/class-date.php:150
+msgid "January"
+msgstr "Январь"
+
+#: templates/modal-profile-image.php:30
+msgid "Note: Max upload image size: "
+msgstr "Примечание: Максимальный размер загружаемого изображения:"
+
+#: templates/bootstrap/modal-profile-image.php:27
+#: templates/modal-profile-image.php:29
+msgid "Upload"
+msgstr "Загрузить"
+
+#: templates/bootstrap/modal-profile-image.php:48
+#: templates/bootstrap/modal-profile-image-crop.php:29
+#: templates/modal-profile-image.php:45
+#: templates/modal-profile-image-crop.php:44
+msgid "Cancel"
+msgstr "Закрыть"
+
+#: templates/bootstrap/modal-profile-image.php:55
+#: templates/bootstrap/modal-profile-image-crop.php:39
+#: templates/modal-profile-image.php:41
+#: templates/modal-profile-image-crop.php:40
+msgid "Apply"
+msgstr "Применить"
+
+#: templates/bootstrap/modal-profile-image.php:15
+#: templates/bootstrap/modal-profile-image-crop.php:16
+#: templates/modal-profile-image.php:18
+#: templates/modal-profile-image-crop.php:18
+msgid "Change your cover photo"
+msgstr "Изменение вашей фото-обложки "
+
+#: templates/bootstrap/modal-profile-image.php:13
+#: templates/bootstrap/modal-profile-image-crop.php:14
+#: templates/modal-profile-image.php:16
+#: templates/modal-profile-image-crop.php:16
+msgid "Change your profile photo"
+msgstr "Изменение своей фотографии профиля"
+
+#: includes/class-profile.php:1073
+msgid "Loading Form ..."
+msgstr "Загрузка формы ..."
+
+#: templates/loop-comments.php:27
+msgid "No Comments Found"
+msgstr "Комментариев нет"
+
+#: includes/class-forms.php:209
+msgid "We have removed the system generated password warning for you. From this point forward you can continue to access our site as usual. To go to home page, <a href=\"%s\">click here</a>."
+msgstr ""
+"Мы удалили предупреждение о сгенерированном вами системном пароле. С этого момента вы можете продолжить доступ к нашему сайту, как обычно. Чтобы перейти на домашнюю страницу,\n"
+"<a href=\"%s\">нажмите здесь</a>."
+
+#: includes/class-forms.php:59 includes/class-forms.php:73
+msgid "Banner cropped successfully."
+msgstr "Баннер успешно обрезан."
+
+#: includes/class-forms.php:52 includes/class-forms.php:66
+msgid "Avatar cropped successfully."
+msgstr "Аватор успешно обрезан."
+
+#: includes/class-forms.php:873
+msgid "Please check your email."
+msgstr "Проверьте свою электронную почту."
+
+#: includes/class-activator.php:662
+msgid "Bio"
+msgstr "Биография"
+
+#: includes/class-activator.php:630
+msgid "Display Name"
+msgstr "Отображаемое имя"
+
+#: includes/class-activator.php:597
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: includes/class-activator.php:581
+msgid "First Name"
+msgstr "Имя"
+
+#: includes/class-activator.php:510 includes/class-activator.php:552
+#: includes/class-forms.php:3074
+msgid "Confirm Password"
+msgstr "Подтвердите Пароль"
+
+#: includes/class-activator.php:497
+msgid "New Password"
+msgstr "Новый пароль"
+
+#: includes/class-activator.php:484
+msgid "Old Password"
+msgstr "Старый пароль"
+
+#: includes/class-activator.php:446
+msgid "Banner"
+msgstr "Баннер"
+
+#: includes/class-activator.php:408
+msgid "Avatar"
+msgstr "Аваторка"
+
+#: includes/class-validation.php:301
+msgid "<strong>Error</strong>: Please fill Confirm Email field"
+msgstr "<strong>Ошибка</strong>: Заполните поле Подтверждения электронной почты"
+
+#: includes/class-validation.php:296
+msgid "<strong>Error</strong>: Please enter your Email"
+msgstr "<strong>Ошибка</strong>: Пожалуйста введите свой адрес электронной почты"
+
+#: includes/class-validation.php:287
+msgid "<strong>Error</strong>: Old password and new password are same"
+msgstr "<strong>Ошибка</strong>: Старый пароль и новый пароль совпадают"
+
+#: includes/class-validation.php:282
+msgid "<strong>Error</strong>: Incorrect old password"
+msgstr "<strong>Ошибка</strong>: Неверный старый пароль"
+
+#: includes/class-validation.php:276
+msgid "<strong>Error</strong>: Please enter your old password"
+msgstr "<strong>Ошибка</strong>: Введите старый пароль"
+
+#: includes/class-validation.php:78
+msgid "<strong>Error</strong>: Permission denied."
+msgstr "<strong>Ошибка</strong>: Доступ запрещен."
+
+#: includes/class-date.php:183
+msgctxt "February abbreviation"
+msgid "Feb"
+msgstr "Фев"
+
+#: includes/class-date.php:182
+msgctxt "January abbreviation"
+msgid "Jan"
+msgstr "Янв"
+
+#: includes/class-date.php:161
+msgid "December"
+msgstr "Декабрь"
+
+#: includes/class-date.php:160
+msgid "November"
+msgstr "Ноябрь"
+
+#: includes/class-date.php:159
+msgid "October"
+msgstr "Октябрь"
+
+#: includes/class-date.php:158
+msgid "September"
+msgstr "Сентябрь"
+
+#: includes/class-date.php:157
+msgid "August"
+msgstr "Август"
+
+#: includes/class-date.php:156
+msgid "July"
+msgstr "Июль"
+
+#: includes/class-notices.php:66
+msgid "Your account is not activated yet. Please check your email for activation email."
+msgstr "Ваша учетная запись еще не активирована. Пожалуйста, проверьте электронную почту для активации электронной почты."
+
+#: includes/class-notices.php:48
+msgid "Account activated successfully. Please login to continue."
+msgstr "Аккаунт успешно активирован. Пожалуйста, войдите, чтобы продолжить."
+
+#: admin/settings/class-uwp-settings-general.php:111
+msgid "Require Email Activation"
+msgstr "Требуется активация электронной почты"
+
+#: admin/settings/class-uwp-settings-general.php:110
+msgid "Auto approve + Auto Login"
+msgstr "Автоподтверждение + Автологин"
+
+#: admin/settings/class-uwp-settings-general.php:109
+msgid "Auto approve"
+msgstr "Автоподтверждение"
+
+#: admin/settings/class-uwp-settings-general.php:274
+msgid "Set the page to redirect the user to after logging out. If no page has been set WordPress default will be used."
+msgstr "Установите страницу для перенаправления пользователя после выхода из системы. Если ни одна страница не была установлена, то будет использоваться WordPress по умолчанию."
+
+#: admin/settings/class-uwp-settings-general.php:134
+msgid "Select how registration should be handled."
+msgstr "Выберите способ регистрации, который должен быть обработан."
+
+#: includes/class-forms.php:274
+msgid "<strong>ERROR</strong>: You must accept our terms and conditions."
+msgstr "<strong>Ошибка</strong>: Вы должны принять наши условия."
+
+#: includes/class-profile.php:657
+msgid "Page"
+msgstr "Страница"
+
+#: templates/bootstrap/account.php:22 templates/profile-tabs.php:53
+#: templates/account.php:13 includes/helpers/tabs.php:123
+#: includes/class-profile.php:154 widgets/account.php:47
+msgid "Edit Account"
+msgstr "Редактировать аккаунт"
+
+#: templates/profile-header.php:93 includes/class-profile.php:100
+msgid "Update"
+msgstr "Обновить"
+
+#: templates/profile-header.php:58 includes/class-profile.php:65
+msgid "Update Cover Photo"
+msgstr "Обновление обложки"
+
+#: includes/class-forms.php:2572 includes/class-forms.php:2606
+msgid "Please enter a valid URL including http://"
+msgstr "Введите действительный URL, включая http://"
+
+#: includes/class-forms.php:434 includes/class-forms.php:1135
+#: includes/class-forms.php:1309
+msgid "<strong>Error</strong>: Something went wrong. Please contact site admin."
+msgstr "<strong>Ошибка</strong>: Что-то пошло не так. Пожалуйста, свяжитесь с администратором сайта."
+
+#: includes/class-validation.php:215
+msgid "<strong>Error</strong>: The email address isn&#8217;t correct."
+msgstr "<strong>Kesalahan</strong>: Alamat email tidak benar."
+
+#: includes/class-validation.php:228
+msgid "<strong>Error</strong>: This email doesn't exists."
+msgstr "<strong>Kesalahan</strong>: Email ini tidak ada."
+
+#: includes/class-validation.php:222
+msgid "<strong>Error</strong>: This email is already registered, please choose another one."
+msgstr "<strong>Kesalahan</strong>: Email ini sudah terdaftar, tolong pilih yang lain."
+
+#: includes/class-validation.php:241
+msgid "<strong>Error</strong>: This username is already registered. Please choose another one."
+msgstr "<strong>Kesalahan</strong>: Nama pemakai ini sudah terdaftar, tolong pilih yang lain."
+
+#: includes/class-forms.php:801
+msgid "<strong>Error</strong>: Your account is not activated yet. Please activate your account first."
+msgstr "<strong>Kesalahan</strong>: Akun Anda belum diaktifkan. Silakan aktifkan akun terlebih dahulu."
+
+#: includes/class-files.php:50
+msgid "Allowed files types are: %s"
+msgstr "Berkas yang diijinkan: %s"
+
+#: includes/class-forms.php:617
+msgid "Your account is under moderation. We will email you once its approved."
+msgstr "Ваша учетная запись находится в режиме модерации. Мы вышлем вам электронное письмо после его утверждения."
+
+#: includes/class-forms.php:461 includes/class-meta.php:480
+msgid "To activate your account, visit the following address:"
+msgstr "Чтобы активировать свою учетную запись, перейдите по следующему адресу:"
+
+#: admin/settings/class-uwp-settings-general.php:162
+msgid "Terms of Service page. When set \"Accept terms and Conditions\" checkbox will appear on the register form."
+msgstr "Halaman Ketentuan Layanan. Ketika mengatur \"Terima syarat dan Ketentuan\" kotak centang akan muncul pada formulir pendaftaran."
+
+#: admin/settings/class-formbuilder.php:37
+#: admin/settings/class-uwp-settings-general.php:70
+#: templates/bootstrap/register.php:8 templates/register.php:8
+#: includes/class-pages.php:436 widgets/register.php:46 widgets/register.php:93
+msgid "Register"
+msgstr "Регистрация"
+
+#: admin/settings/class-formbuilder.php:36
+#: admin/settings/class-uwp-settings-general.php:75
+#: templates/bootstrap/change.php:35 templates/change.php:15
+#: includes/class-pages.php:438 widgets/account.php:95
+msgid "Account"
+msgstr "Аккаунт"
+
+#: admin/settings/class-formbuilder.php:582 includes/class-activator.php:379
+#: includes/class-activator.php:646
+msgid "Email"
+msgstr "Email"
+
+#: admin/class-admin.php:123
+msgid "Option Values must not be blank"
+msgstr "Значения параметров не должны быть пустыми"
+
+#: admin/class-admin.php:127
+msgid "This field is required."
+msgstr "Это поле обязательно."
+
+#: admin/menus/class-menus.php:49 admin/menus/class-menus.php:61
+msgid "Common"
+msgstr "Общий"
+
+#: admin/menus/class-menus.php:52 admin/menus/class-menus.php:73
+msgid "Logged-In"
+msgstr "Вошел"
+
+#: admin/menus/class-menus.php:55 admin/menus/class-menus.php:86
+msgid "Logged-Out"
+msgstr "Вышел"
+
+#: admin/menus/class-menus.php:62
+msgid "Common links are visible to everyone."
+msgstr "Общие ссылки видны всем."
+
+#: admin/menus/class-menus.php:74
+msgid "Logged-In links are not visible to visitors who are not logged in."
+msgstr "Записанные ссылки не отображаются посетителям, которые не вошли в систему."
+
+#: admin/menus/class-menus.php:87
+msgid "Logged-Out links are not visible to users who are logged in."
+msgstr "Записанные ссылки не отображаются пользователям, которые вошли в систему."
+
+#: admin/menus/class-menus.php:104
+msgid "Add to Menu"
+msgstr "Добавить в меню"
+
+#: admin/menus/class-menus.php:171 admin/menus/class-menus.php:312
+msgid "Log out"
+msgstr "Выйти"
+
+#: admin/class-admin-setup-wizard.php:229
+msgid "General Settings"
+msgstr "Главные настройки"
+
+#: admin/settings/class-uwp-settings-general.php:612
+msgid "User Profile Page"
+msgstr "Страница профиля пользователя"
+
+#: admin/settings/class-uwp-settings-general.php:620
+msgid "Register Page"
+msgstr "Страница регистрации"
+
+#: admin/settings/class-uwp-settings-general.php:628
+msgid "Login Page"
+msgstr "Страница авторизации"
+
+#: admin/settings/class-uwp-settings-general.php:636
+msgid "Account Page"
+msgstr "Страница Аккаунта"
+
+#: admin/settings/class-uwp-settings-general.php:644
+msgid "Change Password Page"
+msgstr "Страница Изменить пароль"
+
+#: admin/settings/class-uwp-settings-general.php:652
+msgid "Forgot Password Page"
+msgstr "Страница Забыли пароль?"
+
+#: admin/settings/class-uwp-settings-general.php:668
+msgid "Users List Page"
+msgstr "Страница Список пользователей"
+
+#: admin/settings/class-uwp-settings-emails.php:217
+msgid "Forgot password email"
+msgstr "Сообщение о забытом пароле"
+
+#: admin/settings/class-formbuilder.php:75
+msgid "Add new form field"
+msgstr "Добавить новое поле формы"
+
+#: admin/settings/class-uwp-settings-general.php:710
+msgid "Grid View - 4 Column"
+msgstr "Вид сетки - 4 Столбца"
+
+#: admin/settings/class-uwp-settings-general.php:711
+msgid "Grid View - 5 Column"
+msgstr "Вид сетки - 5 Столбцов"
+
+#: admin/settings/class-uwp-settings-general.php:709
+msgid "Grid View - 3 Column"
+msgstr "Вид сетки - 3 Столбца"
+
+#: admin/settings/class-uwp-settings-general.php:708
+msgid "Grid View - 2 Column"
+msgstr "Вид сетки - 2 Столбца"
+
+#: templates/users-actions.php:19
+msgid "List View"
+msgstr "Вид списком"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:406
+#: templates/loop-comments.php:10 templates/bootstrap/loop-comments.php:9
+#: upgrade.php:71 includes/class-profile.php:795
+msgid "Comments"
+msgstr "Комментарии"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:398 upgrade.php:55
+#: includes/class-profile.php:762
+msgid "Posts"
+msgstr "Записи"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:390 upgrade.php:63
+msgid "More Info"
+msgstr "Больше информации"
+
+#: admin/settings/class-uwp-settings-emails.php:184
+msgid "Registration success email"
+msgstr "Успешная регистрация электронной почты"
+
+#: admin/settings/class-uwp-settings-uninstall.php:89
+msgid "Remove Data on Uninstall?"
+msgstr "Удалить все данные при удалении?"
+
+#: admin/settings/class-formbuilder.php:540
+msgid "Date"
+msgstr "Дата"
+
+#: admin/settings/class-formbuilder.php:2079
+msgid "Number Field"
+msgstr "Числовое поле"
+
+#: admin/settings/class-formbuilder.php:2075
+msgid "Text Field"
+msgstr "Текстовое поле"
+
+#: admin/settings/class-formbuilder.php:2065
+msgid "Select Custom Field type"
+msgstr "Выберите Тип настраиваемого поля"
+
+#: admin/settings/class-formbuilder.php:2038
+msgid "%s formats"
+msgstr "%s форматы"
+
+#: admin/settings/class-formbuilder.php:2036
+msgid "All types"
+msgstr "Все типы"
+
+#: admin/settings/class-formbuilder.php:2032
+msgid "Allowed file types :"
+msgstr "Допустимые типы файлов:"
+
+#: admin/settings/class-formbuilder.php:2460
+#: includes/libraries/class-geodirectory-plugin.php:1152
+#: includes/libraries/class-geodirectory-plugin.php:1365
+#: includes/libraries/class-geodirectory-plugin.php:1572
+msgid "Delete"
+msgstr "Удалить"
+
+#: admin/settings/class-formbuilder.php:1242
+#: admin/settings/class-formbuilder.php:2458
+#: admin/settings/class-uwp-settings-profile-tabs.php:759
+msgid "Save"
+msgstr "Сохранить"
+
+#: admin/settings/class-formbuilder.php:1022
+msgid "info@mysite.com"
+msgstr "info@mysite.com"
+
+#: admin/settings/class-formbuilder.php:1019
+msgid "Checked"
+msgstr "Проверено"
+
+#: admin/settings/class-formbuilder.php:978 includes/class-templates.php:1052
+#: includes/class-profile.php:1878
+msgid "No"
+msgstr "Нет"
+
+#: admin/settings/class-formbuilder.php:977 includes/class-templates.php:1053
+#: includes/class-profile.php:1876
+msgid "Yes"
+msgstr "Да"
+
+#: admin/settings/class-formbuilder.php:596
+msgid "Multi Select"
+msgstr "Выбор из нескольких вариантов"
+
+#: admin/settings/class-formbuilder.php:590
+msgid "Adds a select input"
+msgstr "Добавляет выбранный вход"
+
+#: admin/settings/class-formbuilder.php:589
+#: admin/settings/class-formbuilder.php:2106
+msgid "Select"
+msgstr "Выбрать"
+
+#: admin/settings/class-formbuilder.php:568
+msgid "Phone"
+msgstr "Телефон"
+
+#: admin/settings/class-formbuilder.php:533
+msgid "Text"
+msgstr "Текст"
+
+#: admin/settings/class-formbuilder.php:262
+msgid "Gender"
+msgstr "Пол"
+
+#: admin/settings/class-formbuilder.php:241
+msgid "Country"
+msgstr "Страна"
+
+#: admin/settings/class-formbuilder.php:224
+msgid "There are no custom fields here yet."
+msgstr "Здесь пока нет настраиваемых полей."
+
+#: admin/settings/class-formbuilder.php:100
+msgid "Predefined Fields"
+msgstr "Предопределенные поля"
+
+#: admin/settings/class-uwp-settings-general.php:303
+msgid "Enabled Old Password?"
+msgstr "Включен старый пароль?"
+
+#: admin/settings/class-formbuilder.php:611
+msgid "Adds a file input"
+msgstr "Добавляет ввод файла"
+
+#: admin/settings/class-formbuilder.php:610
+msgid "File Upload"
+msgstr "Файл загружен"
+
+#: admin/settings/class-formbuilder.php:604
+msgid "Adds a url input"
+msgstr "Добавляет URL-адрес"
+
+#: admin/settings/class-formbuilder.php:603
+msgid "URL"
+msgstr "URL"
+
+#: admin/settings/class-formbuilder.php:597
+msgid "Adds a multiselect input"
+msgstr "Добавляет мультиселективный вход"
+
+#: admin/settings/class-formbuilder.php:583
+msgid "Adds a email input"
+msgstr "Добавляет ввод электронной почты"
+
+#: admin/settings/class-formbuilder.php:576
+msgid "Adds a radio input"
+msgstr "Добавляет радиовход"
+
+#: admin/settings/class-formbuilder.php:569
+msgid "Adds a phone input"
+msgstr "Добавляет ввод телефона"
+
+#: admin/settings/class-formbuilder.php:562
+msgid "Adds a checkbox"
+msgstr "Добавляет флажок"
+
+#: admin/settings/class-formbuilder.php:555
+msgid "Adds a time picker"
+msgstr "Добавляет таймер"
+
+#: admin/settings/class-formbuilder.php:554
+msgid "Time"
+msgstr "Время"
+
+#: admin/settings/class-formbuilder.php:548
+msgid "Adds a textarea"
+msgstr "Добавляет текстовое поле"
+
+#: admin/settings/class-formbuilder.php:541
+msgid "Adds a date picker."
+msgstr "Добавляет средство выбора даты."
+
+#: admin/settings/class-formbuilder.php:1593
+#: admin/settings/class-formbuilder.php:1635
+#: admin/settings/class-formbuilder.php:1649
+#: admin/settings/class-formbuilder.php:1702 includes/class-tools.php:82
+msgid "Column creation failed, you may have too many columns or the default value does not match with field data type."
+msgstr "Не удалось создать столбцы, у вас может быть слишком много столбцов, или значение по умолчанию не совпадает с типом данных полей."
+
+#: includes/helpers/misc.php:1543 widgets/output-location.php:92
+msgid "More info tab"
+msgstr "Дополнительная вкладка"
+
+#: admin/settings/class-formbuilder.php:1159
+msgid "Enter custom css class for field custom style."
+msgstr "Введите собственный класс CSS для пользовательского стиля поля."
+
+#: admin/settings/class-formbuilder.php:1087
+msgid "Required message:"
+msgstr "Требуемое сообщение:"
+
+#: admin/settings/class-formbuilder.php:1057
+msgid "Select yes to set field as required"
+msgstr "Выберите «Да» для установки поля по мере необходимости."
+
+#: admin/settings/class-formbuilder.php:2031
+msgid "Select file types to allowed for file uploading. (Select multiple file types by holding down \"Ctrl\" key.)"
+msgstr "Выберите типы файлов, позволяющие загружать файлы. (Выберите несколько типов файлов, удерживая клавишу «Ctrl».)"
+
+#: admin/settings/class-formbuilder.php:1927
+msgid "Select the date format."
+msgstr "Выберите формат даты."
+
+#: includes/class-activator.php:350 includes/class-activator.php:539
+#: includes/class-activator.php:678 includes/class-account.php:56
+#: includes/class-account.php:57
+msgid "Password"
+msgstr "Пароль"
+
+#: includes/class-uwp-defaults.php:167
+msgid "[#site_name#] - Account has been updated"
+msgstr "[#site_name#] - Аккаунт обновлен"
+
+#: includes/class-uwp-defaults.php:83
+msgid "[#site_name#] - Your new password"
+msgstr "[#site_name#] - Ваш новый пароль"
+
+#: includes/class-activator.php:337 includes/class-activator.php:613
+#: includes/libraries/class-geodirectory-plugin.php:1859
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: admin/settings/class-formbuilder.php:1058
+msgid "Is required :"
+msgstr "Необходимо :"
+
+#: admin/settings/class-formbuilder.php:1005
+msgid "Should the checkbox be checked by default?"
+msgstr "Если флажок установлен по умолчанию?"
+
+#: admin/settings/class-formbuilder.php:967
+msgid "Is Public :"
+msgstr "Публично:"
+
+#: admin/settings/class-formbuilder.php:863
+msgid "Must not contain spaces or special characters"
+msgstr "Не должно содержать пробелов или специальных символов"
+
+#: admin/settings/class-formbuilder.php:859
+msgid "This is a unique identifier used in the HTML, it MUST NOT contain spaces or special characters."
+msgstr "Это уникальный идентификатор, используемый в HTML, он НЕ ДОЛЖЕН содержать пробелы или специальные символы."
+
+#: admin/settings/class-formbuilder.php:833
+msgid "Form Label: (Optional)"
+msgstr "Метка формы: (необязательно)"
+
+#: admin/settings/class-formbuilder.php:312
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: admin/settings/class-formbuilder.php:263
+msgid "Adds a input for Gender field."
+msgstr "Добавляет вход для поля «Пол»."
+
+#: admin/settings/class-formbuilder.php:185
+msgid "This adds a section separator with a title."
+msgstr "Это добавляет разделитель раздела с заголовком."
+
+#: admin/settings/class-formbuilder.php:1881
+msgid "Option Values should be separated by comma."
+msgstr "Значения параметров должны быть разделены запятой."
+
+#: admin/settings/class-uwp-settings-emails.php:316
+msgid "Account update email"
+msgstr "Email pembaharuan akun"
+
+#: admin/settings/class-uwp-settings-general.php:442
+msgid "Choose the default layout for Users Page - Users List"
+msgstr "Pilij tata letak standar untuk halaman Pengguna - Daftar Pengguna"
+
+#: admin/settings/class-formbuilder.php:2235
+msgid "Click to expand and view field related settings. You may drag and drop to arrange fields order in register form."
+msgstr "Нажмите, чтобы развернуть и просмотреть настройки, связанные с полем. Вы можете перетащить, чтобы упорядочить порядок полей в форме регистра."
+
+#: admin/settings/class-formbuilder.php:2222
+msgid "List of fields those will appear in register form."
+msgstr "Список полей будет отображаться в форме регистра."
+
+#: admin/settings/class-formbuilder.php:2166
+msgid "Lets you use this field as register ONLY form field."
+msgstr "Позволяет использовать это поле как поле формы только для регистров."
+
+#: admin/settings/class-formbuilder.php:2167
+msgid "Include this field ONLY in register form:"
+msgstr "Включить это поле ТОЛЬКО в регистрационную форму:"
+
+#: admin/settings/class-formbuilder.php:2143
+msgid "Lets you use this field as register form field, set from register tab above."
+msgstr "Позволяет использовать это поле как поле формы регистра, установленное на вкладке с регистром выше."
+
+#: admin/settings/class-formbuilder.php:2144
+msgid "Include this field in register form:"
+msgstr "Включить это поле в регистрационную форму:"
+
+#: admin/settings/class-formbuilder.php:2083
+msgid "Decimal Field"
+msgstr "Десятичное поле"
+
+#: admin/settings/class-formbuilder.php:2005
+msgid "Lets you display confirm email form field."
+msgstr "Позволяет отобразить поле формы электронной почты для подтверждения."
+
+#: admin/settings/class-formbuilder.php:2210
+msgid "Click on any box below to make it appear in register form. To make a field available here, go to account tab and expand any field from selected fields panel and tick the checkbox saying 'Include this field in register form'."
+msgstr "Нажмите на любое поле ниже, чтобы оно появилось в форме регистра. Чтобы сделать поле доступным здесь, перейдите на вкладку «Аккаунт» и раскройте любое поле из выбранной панели полей и отметьте флажок «Включить это поле в регистрационную форму»."
+
+#: admin/settings/class-formbuilder.php:2006
+msgid "Display confirm email field?:"
+msgstr "Отобразить подтверждение поля электронной почты ?:"
+
+#: admin/settings/class-formbuilder.php:1977
+msgid "Lets you display confirm password form field."
+msgstr "Позволяет отобразить поле формы подтверждения пароля."
+
+#: admin/settings/class-formbuilder.php:1978
+msgid "Display confirm password field?:"
+msgstr "Поле подтверждения подтверждения пароля ?:"
+
+#: admin/settings/class-formbuilder.php:1928
+msgid "Date Format :"
+msgstr "Формат даты"
+
+#: admin/settings/class-formbuilder.php:1901
+msgid "A full country list will be shown"
+msgstr "Будет показан полный список стран"
+
+#: admin/settings/class-formbuilder.php:1888
+msgid "Or you can show Selection/Value shown: Pets Allowed/Yes,Pets not Allowed/No"
+msgstr "Или вы можете показать выбранное / значение: Домашние животные разрешены / Да, Домашние животные не разрешены / Нет"
+
+#: admin/settings/class-formbuilder.php:1887
+msgid "Like: Apple,Bannana,Pear,Peach"
+msgstr "Например: Apple, Bannana, Pear, Peach"
+
+#: admin/settings/class-formbuilder.php:1894
+msgid "Option Values :"
+msgstr "Значения опции"
+
+#: admin/settings/class-formbuilder.php:1675
+msgid "Column creation failed, you may have too many columns or the default value must have in valid time format."
+msgstr "Не удалось создать столбцы, у вас может быть слишком много столбцов или значение по умолчанию должно быть в допустимом формате времени."
+
+#: admin/settings/class-formbuilder.php:1662
+msgid "Column creation failed, you may have too many columns or the default value must have in valid date format."
+msgstr "Не удалось создать столбец, у вас может быть слишком много столбцов или значение по умолчанию должно быть в допустимом формате даты."
+
+#: admin/settings/class-formbuilder.php:1442
+#: admin/settings/class-formbuilder.php:1461
+#: admin/settings/class-formbuilder.php:1492
+msgid "Column change failed, you may have too many columns."
+msgstr "Сбой столбца невозможен, у вас может быть слишком много столбцов."
+
+#: admin/settings/class-formbuilder.php:1212
+msgid "Select locations"
+msgstr "Выберите местоположения"
+
+#: includes/helpers/misc.php:1542 widgets/output-location.php:91
+msgid "Users Page"
+msgstr "Страница пользователя"
+
+#: admin/settings/class-formbuilder.php:1191
+msgid "Select in what locations you want to display this field."
+msgstr "Выберите, в каких местах вы хотите отобразить это поле."
+
+#: admin/settings/class-formbuilder.php:1192
+msgid "Show in what locations?:"
+msgstr "Показывать, в каких местах ?:"
+
+#: admin/settings/class-formbuilder.php:1160
+msgid "(Enter class `uwp-comma-list` to show list as comma separated)"
+msgstr "(Введите класс `uwp-comma-list`, чтобы показать список как разделенный запятой)"
+
+#: admin/settings/class-formbuilder.php:1131
+#: admin/settings/class-uwp-settings-profile-tabs.php:674
+msgid "Upload icon :"
+msgstr "Значок загрузки:"
+
+#: admin/settings/class-formbuilder.php:1086
+msgid "Enter text for the error message if the field is required and has not fulfilled the requirements."
+msgstr "Введите текст сообщения об ошибке, если это поле необходимо и не выполнило требования."
+
+#: admin/settings/class-formbuilder.php:1018
+msgid "Unchecked"
+msgstr "непроверенный"
+
+#: admin/settings/class-formbuilder.php:1009
+msgid "A default value for the field, usually blank. (for \"link\" this will be used as the link text)"
+msgstr "Значение по умолчанию для поля, обычно пустое. (для  \"link \" это будет использоваться как текст ссылки)"
+
+#: admin/settings/class-formbuilder.php:1007
+msgid "A default value for the field, usually blank. Ex: info@mysite.com"
+msgstr "Значение по умолчанию для поля, обычно пустое. Пример: info@mysite.com"
+
+#: admin/settings/class-formbuilder.php:1013
+msgid "Default value :"
+msgstr "Значение по умолчанию"
+
+#: admin/settings/class-formbuilder.php:979
+msgid "Let User Decide"
+msgstr "Позвольте пользователю решить"
+
+#: admin/settings/class-formbuilder.php:966
+msgid "If no is selected then the field will not be visible to other users."
+msgstr "Если no выбрано, это поле не будет видно другим пользователям."
+
+#: admin/settings/class-formbuilder.php:913
+msgid "If no is selected then the field will not be displayed anywhere."
+msgstr "Если no выбрано, поле не будет отображаться нигде."
+
+#: admin/settings/class-formbuilder.php:914
+msgid "Is active :"
+msgstr "Действует:"
+
+#: admin/settings/class-formbuilder.php:832
+msgid "If your form label is different, then you can fill this field. Ex: You would like to display \"What is your age?\" in Form Field but would like to display \"DOB\" in site. In such cases \"What is your age?\" should be entered here and \"DOB\" should be entered in previous field. Note: If this field not filled, then the previous field will be used in Form. "
+msgstr "Если ваш ярлык формы отличается, вы можете заполнить это поле. Пример: вы хотите отобразить «« Какой у вас возраст? »В поле« Форма », но хотите отобразить« ДОБ »на сайте. В таких случаях «В каком возрасте?» Следует ввести здесь, а «ДОБ» следует ввести в предыдущем поле. Примечание. Если это поле не заполнено, то предыдущее поле будет использоваться в форме. "
+
+#: admin/settings/class-formbuilder.php:806
+msgid "This will be the label for the field."
+msgstr "Это будет ярлык для поля."
+
+#: admin/settings/class-formbuilder.php:743
+#: admin/settings/class-formbuilder.php:2379
+msgid "Fieldset:"
+msgstr "Набор полей"
+
+#: admin/settings/class-formbuilder.php:575
+msgid "Radio"
+msgstr "Radio"
+
+#: admin/settings/class-formbuilder.php:561
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: admin/settings/class-formbuilder.php:547
+msgid "Textarea"
+msgstr "Textarea"
+
+#: admin/settings/class-formbuilder.php:534
+msgid "Add any sort of text field, text or numbers"
+msgstr "Добавить любое текстовое поле, текст или цифры"
+
+#: admin/settings/class-formbuilder.php:313
+msgid "Adds a input for Mobile field."
+msgstr "Добавляет вход для поля Mobile."
+
+#: admin/settings/class-formbuilder.php:271
+msgid "Select Gender/,Male,Female,Other"
+msgstr "Выберите Пол /, Мужчина, Женщина, Другое"
+
+#: admin/settings/class-formbuilder.php:242
+msgid "Adds a input for Country field."
+msgstr "Добавляет вход для поля Страна."
+
+#: admin/settings/class-formbuilder.php:183
+msgid "Fieldset (section separator)"
+msgstr "Fieldset (разделитель сечений)"
+
+#: admin/settings/class-formbuilder.php:129
+msgid "List of fields those will appear on add new listing form"
+msgstr "Список полей, которые будут отображаться при добавлении новой формы листинга"
+
+#: includes/class-uwp-defaults.php:139
+msgid "[#site_name#] - Password has been reset"
+msgstr "[#site_name #] - Kata sandi telah di setel ulang"
+
+#: includes/class-uwp-defaults.php:111
+msgid "[#site_name#] - Password has been changed"
+msgstr "[#site_name #] - Kata sandi telah berubah"
+
+#: admin/settings/class-uwp-settings-emails.php:283
+msgid "Reset password email"
+msgstr "Setel ulang email kata sandi"
+
+#: admin/settings/class-uwp-settings-emails.php:151
+msgid "Registration activate email"
+msgstr "Email activasi pendaftaran"
+
+#: admin/settings/class-uwp-settings-general.php:441
+msgid "Users default layout"
+msgstr "Tata letak baku"
+
+#: admin/settings/class-uwp-settings-general.php:396
+msgid "Profile banner width"
+msgstr "Lebar banner profil"
+
+#: admin/settings/class-uwp-settings-general.php:413
+msgid "Enter number of items to display in profile tabs."
+msgstr "Masukkan jumlah item untuk ditampilkan di tab profil."
+
+#: admin/settings/class-uwp-settings-general.php:669
+msgid "This is the front end Users List page. This is the page where all registered users of the websites are listed."
+msgstr "Ini adalah halaman depan Daftar Pengguna. Ini adalah halaman dimana seluruh pengguna terdaftar di dalam website di cantumkan."
+
+#: admin/settings/class-uwp-settings-general.php:661
+msgid "This is the front end Reset Password page. This is the page where users can reset their password when they lose it."
+msgstr "Ini adalah halaman depan setel ulang kata sandi. Ini adalah halaman dimana pengguna dapat menyetel ulang kata sandi mereka ketika mereka menghilangkannya."
+
+#: admin/settings/class-uwp-settings-general.php:660
+msgid "Reset Password Page"
+msgstr "Halaman Setel Ulang Kata Sandi"
+
+#: admin/settings/class-uwp-settings-general.php:653
+msgid "This is the front end Forgot Password page. This is the page where users are sent to reset their password when they lose it."
+msgstr "Ini adalah halaman depan formulir lupa kata sandi. Ini adalah halaman dimana pengguna dikirim untuk menyetel ulang kata sandi mereka ketika mereka menghilangkannya."
+
+#: admin/settings/class-uwp-settings-general.php:645
+msgid "This is the front end Change Password page."
+msgstr "Ini adalah halaman depan Ganti Kata Sandi."
+
+#: admin/settings/class-uwp-settings-general.php:637
+msgid "This is the front end account page. This is where users can edit their account."
+msgstr "Ini adalah halaman depan akun. Disini pengguna dapat menyunting akun mereka."
+
+#: admin/settings/class-uwp-settings-general.php:629
+msgid "This is the front end login page. This is where users will login after creating their account."
+msgstr "Ini adalah halaman depan masuk. Disini pengguna akan masuk setelah membuat akun mereka."
+
+#: admin/settings/class-uwp-settings-general.php:621
+msgid "This is the front end register page. This is where users create their account."
+msgstr "Ini adalah halaman depan pendaftaran. Disini pengguna membuat akun mereka."
+
+#: admin/settings/class-uwp-settings-general.php:613
+msgid "This is the front end user's profile page. This page automatically overrides the default WordPress author page."
+msgstr "Ini adalah halaman muka profil pengguna. Halaman ini secara otomatis menimpa bawaan."

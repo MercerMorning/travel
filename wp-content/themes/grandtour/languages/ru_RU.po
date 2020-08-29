@@ -1,0 +1,2911 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GrandTour\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-02 11:58+0700\n"
+"PO-Revision-Date: 2020-08-05 19:22+0000\n"
+"Last-Translator: \n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_n;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-SearchPath-0: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: ../404.php:16
+msgid "404 Not Found!"
+msgstr "404 Не найдено!"
+
+#: ../404.php:18
+msgid ""
+"We're sorry, the page you have looked for does not exist in our content!"
+msgstr ""
+"К сожалению, страница, которую вы искали, не существует в нашем контенте!"
+
+#: ../404.php:32
+msgid "Perhaps you would like to go to our homepage or try searching below."
+msgstr ""
+"Возможно, вы хотели бы перейти на нашу домашнюю страницу или попробовать "
+"поиск ниже."
+
+#: ../404.php:35 ../search.php:31
+msgid "Type to search and hit enter..."
+msgstr "Тип для поиска и нажмите введите ..."
+
+#: ../404.php:41
+msgid "Or try to browse our latest posts instead?"
+msgstr "Или попробуйте просмотреть наши последние сообщения вместо этого?"
+
+#: ../404.php:130 ../blog_f.php:210 ../blog_fg.php:221 ../blog_fg.php:302
+#: ../blog_fgl.php:227 ../blog_fgl.php:308 ../blog_fgr.php:227
+#: ../blog_fgr.php:308 ../blog_g.php:175 ../blog_gls.php:179 ../blog_gs.php:179
+#: ../blog_l.php:216 ../blog_r.php:216 ../index.php:145 ../search.php:140
+msgid "Read More"
+msgstr "Читать дальше"
+
+#: ../blog_f.php:180 ../blog_fg.php:191 ../blog_fgl.php:197 ../blog_fgr.php:197
+#: ../blog_l.php:186 ../blog_r.php:186 ../index.php:115 ../search.php:110
+#: ../templates/template-post-header.php:51
+msgid "Comment"
+msgstr "Комментарий"
+
+#: ../blog_f.php:184 ../blog_fg.php:195 ../blog_fgl.php:201 ../blog_fgr.php:201
+#: ../blog_l.php:190 ../blog_r.php:190 ../comments.php:17 ../index.php:119
+#: ../search.php:114 ../templates/template-post-header.php:55
+msgid "Comments"
+msgstr "Комментарии"
+
+#: ../blog_f.php:241 ../blog_fg.php:341 ../blog_fgl.php:347 ../blog_fgr.php:347
+#: ../blog_g.php:209 ../blog_gls.php:219 ../blog_gs.php:217 ../blog_l.php:247
+#: ../blog_r.php:247 ../destination-f.php:138 ../destination-l.php:146
+#: ../destination-r.php:146 ../index.php:176 ../search.php:171
+#: ../tour-2-classic-l.php:260 ../tour-2-classic-r.php:260
+#: ../tour-2-classic.php:252 ../tour-2-grid-l.php:253 ../tour-2-grid-r.php:253
+#: ../tour-2-grid.php:245 ../tour-3-classic.php:252 ../tour-3-grid.php:245
+#: ../tour-4-classic.php:252 ../tour-4-grid.php:245 ../tour-list-l.php:269
+#: ../tour-list-r.php:269
+msgid "Page"
+msgstr "Страницы"
+
+#: ../blog_f.php:241 ../blog_fg.php:341 ../blog_fgl.php:347 ../blog_fgr.php:347
+#: ../blog_g.php:209 ../blog_gls.php:219 ../blog_gs.php:217 ../blog_l.php:247
+#: ../blog_r.php:247 ../destination-f.php:138 ../destination-l.php:146
+#: ../destination-r.php:146 ../index.php:176 ../search.php:171
+#: ../tour-2-classic-l.php:260 ../tour-2-classic-r.php:260
+#: ../tour-2-classic.php:252 ../tour-2-grid-l.php:253 ../tour-2-grid-r.php:253
+#: ../tour-2-grid.php:245 ../tour-3-classic.php:252 ../tour-3-grid.php:245
+#: ../tour-4-classic.php:252 ../tour-4-grid.php:245 ../tour-list-l.php:269
+#: ../tour-list-r.php:269
+msgid "of"
+msgstr "из"
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Этот пост защищен паролем. Введите пароль для просмотра комментариев."
+
+#: ../comments.php:17 ../comments.php:232
+msgid "Leave A Reply"
+msgstr "Оставь ответ"
+
+#: ../comments.php:17
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: ../comments.php:24
+msgid "Leave A Review"
+msgstr "Оставьте отзыв"
+
+#: ../comments.php:24
+msgid "1 Review"
+msgstr "1 Обзор"
+
+#: ../comments.php:24
+msgid "Reviews"
+msgstr "Отзывов"
+
+#: ../comments.php:40
+msgid "Accomodation"
+msgstr "Размещение"
+
+#: ../comments.php:68
+msgid "Destination"
+msgstr "Назначения"
+
+#: ../comments.php:96
+msgid "Meals"
+msgstr "Блюда"
+
+#: ../comments.php:124
+msgid "Transport"
+msgstr "Транспорта"
+
+#: ../comments.php:152
+msgid "Value For Money"
+msgstr "Соотношение цены и качества"
+
+#: ../comments.php:180
+msgid "Overall"
+msgstr "Общей"
+
+#: ../comments.php:238
+msgid "Write A Review"
+msgstr "Написать отзыв"
+
+#: ../destination-f.php:113 ../destination-l.php:121 ../destination-r.php:121
+msgid "We haven't found any destination that matches you're criteria"
+msgstr ""
+"Мы не нашли ни одного места назначения, которое соответствовало бы вам "
+"критериям"
+
+#: ../footer.php:25
+msgid "Recently Viewed Tours"
+msgstr "Недавно просмотренные туры"
+
+#: ../footer.php:122 ../templates/template-destination-single-related.php:159
+#: ../templates/template-tour-single-related.php:177
+#: ../tour-2-classic-l.php:191 ../tour-2-classic-r.php:191
+#: ../tour-2-classic.php:183 ../tour-2-grid-l.php:186 ../tour-2-grid-r.php:186
+#: ../tour-2-grid.php:178 ../tour-3-classic.php:183 ../tour-3-grid.php:178
+#: ../tour-4-classic.php:183 ../tour-4-grid.php:178 ../tour-list-l.php:203
+#: ../tour-list-r.php:203
+msgid "reviews"
+msgstr "Отзывов"
+
+#: ../footer.php:126 ../templates/template-destination-single-related.php:163
+#: ../templates/template-tour-single-related.php:181
+#: ../tour-2-classic-l.php:195 ../tour-2-classic-r.php:195
+#: ../tour-2-classic.php:187 ../tour-2-grid-l.php:190 ../tour-2-grid-r.php:190
+#: ../tour-2-grid.php:182 ../tour-3-classic.php:187 ../tour-3-grid.php:182
+#: ../tour-4-classic.php:187 ../tour-4-grid.php:182 ../tour-list-l.php:207
+#: ../tour-list-r.php:207
+msgid "review"
+msgstr "Отзыв"
+
+#: ../functions.php:478
+msgid "Updating..."
+msgstr "Обновление..."
+
+#: ../functions.php:479
+msgid "Successfully Update"
+msgstr "Успешное обновление"
+
+#: ../functions.php:494
+msgid "Theme Setting"
+msgstr "Настройка темы"
+
+#: ../functions.php:494 ../functions.php:539
+#: ../modules/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Версия"
+
+#: ../functions.php:546 ../modules/content_builder/template.php:22
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../functions.php:705 ../functions.php:714
+msgid "Delete"
+msgstr "Удалить"
+
+#: ../functions.php:714
+msgid "Listen current music"
+msgstr "Слушайте текущую музыку"
+
+#: ../functions.php:824
+msgid "Theme Default Font"
+msgstr "Тема по умолчанию шрифт"
+
+#: ../functions.php:833
+msgid "Sample Text"
+msgstr "Текст образца"
+
+#: ../functions.php:907
+msgid "Add"
+msgstr "Добавить"
+
+#: ../functions.php:1103 ../modules/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Обновление"
+
+#: ../functions.php:1105
+msgid "Cancel"
+msgstr "Отмена"
+
+#: ../functions.php:1118
+msgid "Title"
+msgstr "Название"
+
+#: ../functions.php:1119
+msgid "Enter Title for this content"
+msgstr "Введите название для этого содержимого"
+
+#: ../functions.php:1272
+msgid "top"
+msgstr "Вверх"
+
+#: ../functions.php:1275
+msgid "bottom"
+msgstr "Нижней"
+
+#: ../functions.php:1278
+msgid "left"
+msgstr "Левой"
+
+#: ../functions.php:1281
+msgid "right"
+msgstr "Правильно"
+
+#: ../functions.php:1356 ../functions.php:1372
+msgid "Content"
+msgstr "Содержимого"
+
+#: ../functions.php:1357 ../functions.php:1373
+msgid "You can enter text, HTML for its content"
+msgstr "Вы можете ввести текст, HTML для его содержания"
+
+#: ../functions.php:1686 ../modules/content_builder.php:70
+#: ../modules/content_builder/template.php:88
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+#: ../functions.php:1687
+msgid "Close"
+msgstr "Закрыть"
+
+#: ../gallery.php:85
+msgid "Purchase"
+msgstr "Покупки"
+
+#: ../header.php:117
+msgid "Back"
+msgstr "Назад"
+
+#: ../lib/config.lib.php:222
+msgid "January"
+msgstr "Январь"
+
+#: ../lib/config.lib.php:223
+msgid "February"
+msgstr "Февраль"
+
+#: ../lib/config.lib.php:224
+msgid "March"
+msgstr "Март"
+
+#: ../lib/config.lib.php:225
+msgid "April"
+msgstr "Апрель"
+
+#: ../lib/config.lib.php:226
+msgid "May"
+msgstr "Май"
+
+#: ../lib/config.lib.php:227
+msgid "June"
+msgstr "Июнь"
+
+#: ../lib/config.lib.php:228
+msgid "July"
+msgstr "Июль"
+
+#: ../lib/config.lib.php:229
+msgid "August"
+msgstr "Август"
+
+#: ../lib/config.lib.php:230
+msgid "September"
+msgstr "Сентябрь"
+
+#: ../lib/config.lib.php:231
+msgid "October"
+msgstr "Октябрь"
+
+#: ../lib/config.lib.php:232
+msgid "November"
+msgstr "Ноябрь"
+
+#: ../lib/config.lib.php:233
+msgid "December"
+msgstr "Декабрь"
+
+#: ../lib/config.lib.php:241
+msgid "Sort By Date"
+msgstr "Тип приключения"
+
+#: ../lib/config.lib.php:242
+msgid "Price Low to High"
+msgstr "Цена по возрастанию"
+
+#: ../lib/config.lib.php:243
+msgid "Price High to Low"
+msgstr "Цена по убыванию"
+
+#: ../lib/config.lib.php:244
+msgid "Sort By Name"
+msgstr "Сортировать по названию"
+
+#: ../lib/config.lib.php:245
+msgid "Sort By Popularity"
+msgstr "Сортировать по популярности"
+
+#: ../lib/config.lib.php:246
+msgid "Sort By Review Score"
+msgstr "Сортировать по рейтингу"
+
+#: ../lib/config.lib.php:254
+msgid "Monday"
+msgstr "Понедельник"
+
+#: ../lib/config.lib.php:255
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: ../lib/config.lib.php:256
+msgid "Wednesday"
+msgstr "Среда"
+
+#: ../lib/config.lib.php:257
+msgid "Thursday"
+msgstr "Четверг"
+
+#: ../lib/config.lib.php:258
+msgid "Friday"
+msgstr "Пятница"
+
+#: ../lib/config.lib.php:259
+msgid "Saturday"
+msgstr "Суббота"
+
+#: ../lib/config.lib.php:260
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: ../lib/config.lib.php:348
+msgid "Page Template"
+msgstr "Шаблон страницы"
+
+#: ../lib/config.lib.php:348
+msgid "Select template for this page"
+msgstr "Выберите шаблон для этой страницы"
+
+#: ../lib/config.lib.php:350 ../lib/customizer.lib.php:289
+msgid "Page Title"
+msgstr "Название страницы"
+
+#: ../lib/config.lib.php:350
+msgid "Hide Default Page Header"
+msgstr "Скрыть заголовок страницы по умолчанию"
+
+#: ../lib/config.lib.php:350
+msgid "Check this option if you want to hide default page header"
+msgstr ""
+"Проверьте этот параметр, если вы хотите скрыть заголовок страницы по "
+"умолчанию"
+
+#: ../lib/config.lib.php:352
+msgid "Page Tagline"
+msgstr "Теглайн страницы"
+
+#: ../lib/config.lib.php:352
+msgid "Page Tagline (Optional)"
+msgstr "Тег страницы (необязательно)"
+
+#: ../lib/config.lib.php:352
+msgid ""
+"Enter page tagline. It will displays under page title (*Note: HTML code also "
+"support)"
+msgstr ""
+"Введите слоган страницы. Он будет отстранять под заголовком страницы "
+"(«Примечание: HTML-код также поддерживается»"
+
+#: ../lib/config.lib.php:355 ../lib/config.lib.php:367
+#: ../lib/config.lib.php:375
+msgid "Page Attributes"
+msgstr "Атрибуты страницы"
+
+#: ../lib/config.lib.php:358
+msgid "Header Content Type"
+msgstr "Тип содержимого заголовка"
+
+#: ../lib/config.lib.php:359
+msgid "Select header content type for this page."
+msgstr "Выберите тип содержимого заголовка для этой страницы."
+
+#: ../lib/config.lib.php:370
+msgid "Vimeo Video ID (Optional)"
+msgstr "Видео ID Vimeo (по желанию)"
+
+#: ../lib/config.lib.php:371
+msgid "Please enter Vimeo Video ID for example 73317780"
+msgstr "Пожалуйста, введите Vimeo Видео ID, например 73317780"
+
+#: ../lib/config.lib.php:378
+msgid "Youtube Video ID (Optional)"
+msgstr "Видео ID Youtube (необязательно)"
+
+#: ../lib/config.lib.php:379
+msgid "Please enter Youtube Video ID for example 6AIdXisPqHc"
+msgstr "Пожалуйста, введите Youtube Видео ID, например 6AIdXisPqHc"
+
+#: ../lib/config.lib.php:382
+msgid "Select Sidebar (Optional)"
+msgstr "Выберите боковая панель (необязательно)"
+
+#: ../lib/config.lib.php:382
+msgid "Page Sidebar (Optional)"
+msgstr "Сторона страницы (необязательно)"
+
+#: ../lib/config.lib.php:382
+msgid ""
+"Select this page sidebar to display. To use this option, you have to select "
+"page template end with \"Sidebar\" only"
+msgstr ""
+"Выберите эту боковую панель страницы для отображения. Чтобы использовать эту "
+"опцию, вы должны выбрать шаблон страницы конца с \"Sidebar\" только"
+
+#: ../lib/config.lib.php:384
+msgid "Select Menu"
+msgstr "Выберите меню"
+
+#: ../lib/config.lib.php:384
+msgid "Page Menu (Optional)"
+msgstr "Меню страницы (необязательно)"
+
+#: ../lib/config.lib.php:384
+msgid ""
+"Select this page menu if you want to display main menu other than default one"
+msgstr ""
+"Выберите меню этой страницы, если вы хотите отобразить основное меню, кроме "
+"меню по умолчанию"
+
+#: ../lib/custom.lib.php:115
+msgid "(Your comment is awaiting moderation.)"
+msgstr "(Ваш комментарий ожидает модерации.)"
+
+#: ../lib/custom.lib.php:134
+msgid "at"
+msgstr "В"
+
+#: ../lib/custom.lib.php:140
+msgid "Reply"
+msgstr "Ответ"
+
+#: ../lib/custom.lib.php:140
+msgid "Login to Reply"
+msgstr "Вход в систему ответа"
+
+#: ../lib/custom.lib.php:203
+msgid "Recent Posts"
+msgstr "Последние сообщения"
+
+#: ../lib/custom.lib.php:981
+msgid "Content Items (Posts, Pages, Custom Post Types, Revisions)"
+msgstr ""
+"Элементы содержимого (сообщения, страницы, пользовательские типы сообщений, "
+"изменения)"
+
+#: ../lib/custom.lib.php:982
+msgid "Excerpts"
+msgstr "Выдержки"
+
+#: ../lib/custom.lib.php:983
+msgid "Attachments"
+msgstr "Вложения"
+
+#: ../lib/custom.lib.php:984
+msgid "Links"
+msgstr "Ссылки"
+
+#: ../lib/custom.lib.php:985
+msgid "Custom Fields"
+msgstr "Пользовательские поля"
+
+#: ../lib/custom.lib.php:986
+msgid "GUIDs"
+msgstr "Guid"
+
+#: ../lib/custom.lib.php:1244
+msgid "Import data could not be read. Please try a different file."
+msgstr ""
+"Данные об импорте читать не узнать. Пожалуйста, попробуйте другой файл."
+
+#: ../lib/custom.lib.php:1282
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr "Боковая панель не существует в теме (с использованием неактивных)"
+
+#: ../lib/custom.lib.php:1304
+msgid "Site does not support widget"
+msgstr "Сайт не поддерживает виджет"
+
+#: ../lib/custom.lib.php:1335
+msgid "Widget already exists"
+msgstr "Виджет уже существует"
+
+#: ../lib/custom.lib.php:1384
+msgid "Imported"
+msgstr "Импортированные"
+
+#: ../lib/custom.lib.php:1387
+msgid "Imported to Inactive"
+msgstr "Импорт в неактивный"
+
+#: ../lib/custom.lib.php:1394
+msgid "No Title"
+msgstr "Нет названия"
+
+#: ../lib/custom.lib.php:1455 ../modules/content_builder.php:221
+msgid "Add Content After This"
+msgstr "Добавить содержимое после этого"
+
+#: ../lib/custom.lib.php:1457 ../modules/content_builder.php:219
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../lib/custom.lib.php:1459 ../modules/content_builder.php:217
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: ../lib/custom.lib.php:1462 ../modules/content_builder.php:215
+#: ../modules/content_builder/template.php:48
+msgid "Remove"
+msgstr "Удалить"
+
+#: ../lib/custom.lib.php:1703 ../templates/template-tour-single-related.php:206
+msgid "days"
+msgstr "Дней"
+
+#: ../lib/custom.lib.php:1711
+msgid "Hours"
+msgstr "Часов"
+
+#: ../lib/custom.lib.php:1715
+msgid "Hour"
+msgstr "Час"
+
+#: ../lib/custom.lib.php:1721 ../templates/template-tour-single-related.php:210
+msgid "day"
+msgstr "День"
+
+#: ../lib/custom.lib.php:1733
+msgid "Available on "
+msgstr "Доступно на "
+
+#: ../lib/customizer.lib.php:55 ../lib/customizer.lib.php:2147
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: ../lib/customizer.lib.php:56 ../lib/customizer.lib.php:2169
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: ../lib/customizer.lib.php:57
+msgid "No Repeat"
+msgstr "Нет Повтора"
+
+#: ../lib/customizer.lib.php:58
+msgid "Repeat All"
+msgstr "Повторите все"
+
+#: ../lib/customizer.lib.php:59
+msgid "Repeat Horizontally"
+msgstr "Повторите Горизонтально"
+
+#: ../lib/customizer.lib.php:60
+msgid "Repeat Vertically"
+msgstr "Повторите вертикально"
+
+#: ../lib/customizer.lib.php:61
+msgid "Inherit"
+msgstr "Наследовать"
+
+#: ../lib/customizer.lib.php:62
+msgid "Background Repeat"
+msgstr "Фон повторить"
+
+#: ../lib/customizer.lib.php:63
+msgid "Cover"
+msgstr "Крышка"
+
+#: ../lib/customizer.lib.php:64
+msgid "Contain"
+msgstr "Содержать"
+
+#: ../lib/customizer.lib.php:65
+msgid "Background Size"
+msgstr "Фоновый размер"
+
+#: ../lib/customizer.lib.php:66
+msgid "Fixed"
+msgstr "Фиксированной"
+
+#: ../lib/customizer.lib.php:67
+msgid "Scroll"
+msgstr "Прокрутки"
+
+#: ../lib/customizer.lib.php:68
+msgid "Background Attachment"
+msgstr "Справочное приложение"
+
+#: ../lib/customizer.lib.php:69
+msgid "Left Top"
+msgstr "Левый верх"
+
+#: ../lib/customizer.lib.php:70
+msgid "Left Center"
+msgstr "Левый центр"
+
+#: ../lib/customizer.lib.php:71
+msgid "Left Bottom"
+msgstr "Левое дно"
+
+#: ../lib/customizer.lib.php:72
+msgid "Right Top"
+msgstr "Право вверх"
+
+#: ../lib/customizer.lib.php:73
+msgid "Right Center"
+msgstr "Правый центр"
+
+#: ../lib/customizer.lib.php:74
+msgid "Right Bottom"
+msgstr "Правое дно"
+
+#: ../lib/customizer.lib.php:75
+msgid "Center Top"
+msgstr "Центр Топ"
+
+#: ../lib/customizer.lib.php:76
+msgid "Center Center"
+msgstr "Центр-центр"
+
+#: ../lib/customizer.lib.php:77
+msgid "Center Bottom"
+msgstr "Дно центра"
+
+#: ../lib/customizer.lib.php:78
+msgid "Background Position"
+msgstr "Фоновое положение"
+
+#: ../lib/customizer.lib.php:79
+msgid "Background Opacity"
+msgstr "Фоновая непрозрачность"
+
+#: ../lib/customizer.lib.php:80
+msgid "ON"
+msgstr "На"
+
+#: ../lib/customizer.lib.php:81
+msgid "OFF"
+msgstr "ВЫСВЕЧЬ"
+
+#: ../lib/customizer.lib.php:82
+msgid "All"
+msgstr "Все"
+
+#: ../lib/customizer.lib.php:83
+msgid "Cyrillic"
+msgstr "Кириллица"
+
+#: ../lib/customizer.lib.php:84
+msgid "Cyrillic Extended"
+msgstr "Кириллица Расширенная"
+
+#: ../lib/customizer.lib.php:85
+msgid "Devanagari"
+msgstr "Деванагари"
+
+#: ../lib/customizer.lib.php:86
+msgid "Greek"
+msgstr "греческий"
+
+#: ../lib/customizer.lib.php:87
+msgid "Greek Extended"
+msgstr "Греческий Расширенный"
+
+#: ../lib/customizer.lib.php:88
+msgid "Khmer"
+msgstr "Кхмерской"
+
+#: ../lib/customizer.lib.php:89
+msgid "Latin"
+msgstr "Латинской"
+
+#: ../lib/customizer.lib.php:90
+msgid "Latin Extended"
+msgstr "Латинский Расширенный"
+
+#: ../lib/customizer.lib.php:91
+msgid "Vietnamese"
+msgstr "вьетнамский"
+
+#: ../lib/customizer.lib.php:113 ../lib/customizer.lib.php:226
+#: ../lib/customizer.lib.php:310 ../lib/customizer.lib.php:331
+#: ../lib/customizer.lib.php:352 ../lib/customizer.lib.php:366
+#: ../lib/customizer.lib.php:384
+msgid "General"
+msgstr "Общие"
+
+#: ../lib/customizer.lib.php:118
+msgid "Navigation"
+msgstr "Навигации"
+
+#: ../lib/customizer.lib.php:123
+msgid "Header"
+msgstr "Заголовка"
+
+#: ../lib/customizer.lib.php:128
+msgid "Sidebar"
+msgstr "Боковой панели"
+
+#: ../lib/customizer.lib.php:133
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+#: ../lib/customizer.lib.php:138
+msgid "Gallery"
+msgstr "Галерея"
+
+#: ../lib/customizer.lib.php:143
+msgid "Tour"
+msgstr "Тур"
+
+#: ../lib/customizer.lib.php:148
+msgid "Blog"
+msgstr "Блог"
+
+#: ../lib/customizer.lib.php:156 ../modules/woocommerce.php:7
+msgid "Shop"
+msgstr "Магазин"
+
+#: ../lib/customizer.lib.php:164
+msgid "Logo & Favicon"
+msgstr "Логотип и Favicon"
+
+#: ../lib/customizer.lib.php:170
+msgid "Image"
+msgstr "Изображения"
+
+#: ../lib/customizer.lib.php:177 ../lib/customizer.lib.php:233
+#: ../lib/customizer.lib.php:317
+msgid "Typography"
+msgstr "Типографии"
+
+#: ../lib/customizer.lib.php:184
+msgid "Background & Colors"
+msgstr "Фоновые цвета и цвета"
+
+#: ../lib/customizer.lib.php:191
+msgid "Input and Button Elements"
+msgstr "Элементы ввода и кнопки"
+
+#: ../lib/customizer.lib.php:198
+msgid "Sharing"
+msgstr "Обмена"
+
+#: ../lib/customizer.lib.php:205
+msgid "Mobile"
+msgstr "Мобильных"
+
+#: ../lib/customizer.lib.php:212
+msgid "Frame"
+msgstr "Рамки"
+
+#: ../lib/customizer.lib.php:219
+msgid "Boxed Layout"
+msgstr "Коробчатый макет"
+
+#: ../lib/customizer.lib.php:240 ../lib/customizer.lib.php:324
+#: ../lib/customizer.lib.php:338
+msgid "Colors"
+msgstr "Цвета"
+
+#: ../lib/customizer.lib.php:247
+msgid "Sub Menu"
+msgstr "Суб-меню"
+
+#: ../lib/customizer.lib.php:254
+msgid "Mega Menu"
+msgstr "Мега Меню"
+
+#: ../lib/customizer.lib.php:261
+msgid "Top Bar"
+msgstr "Топ-бар"
+
+#: ../lib/customizer.lib.php:268
+msgid "Contact Info"
+msgstr "Информация о контактах"
+
+#: ../lib/customizer.lib.php:275
+msgid "Side Menu"
+msgstr "Боковое меню"
+
+#: ../lib/customizer.lib.php:282
+msgid "Background"
+msgstr "Фон"
+
+#: ../lib/customizer.lib.php:296
+msgid "Content Builder Header"
+msgstr "Заголовок строитель контента"
+
+#: ../lib/customizer.lib.php:303
+msgid "Page Tagline & Sub Title"
+msgstr "Теглайн страницы и подзаголовок"
+
+#: ../lib/customizer.lib.php:345
+msgid "Copyright"
+msgstr "Авторское право"
+
+#: ../lib/customizer.lib.php:359
+msgid "Lightbox"
+msgstr "Лайтбокс"
+
+#: ../lib/customizer.lib.php:372
+msgid "Single Tour Page"
+msgstr "Страница одного тура"
+
+#: ../lib/customizer.lib.php:378
+msgid "Single Destination Page"
+msgstr "Страница одного назначения"
+
+#: ../lib/customizer.lib.php:391
+msgid "Slider"
+msgstr "Ползунок"
+
+#: ../lib/customizer.lib.php:398
+msgid "Single Post"
+msgstr "Один пост"
+
+#: ../lib/customizer.lib.php:408
+msgid "Layout"
+msgstr "Макет"
+
+#: ../lib/customizer.lib.php:415
+msgid "Single Product"
+msgstr "Единый продукт"
+
+#: ../lib/customizer.lib.php:1379
+msgid "Favicon"
+msgstr "Значок"
+
+#: ../lib/customizer.lib.php:1380
+msgid ""
+"A favicon is a 16x16 pixel icon that represents your site; paste the URL to "
+"a .ico image that you want to use as the image"
+msgstr ""
+"Значок — это значок 16x16 пикселей, представляющий ваш сайт; вставить URL-"
+"адрес на изображение .ico, которое вы хотите использовать в качестве "
+"изображения"
+
+#: ../lib/customizer.lib.php:1389
+msgid "Retina Logo"
+msgstr "Логотип Retina"
+
+#: ../lib/customizer.lib.php:1390
+msgid ""
+"Retina Ready Image logo. It should be 2x size of normal logo. For example "
+"200x60px logo will displays at 100x30px"
+msgstr ""
+"Логотип Retina Ready Image. Он должен быть 2x размером с нормальный логотип. "
+"Например, логотип 200x60px будет отображается на 100x30px"
+
+#: ../lib/customizer.lib.php:1399
+msgid "Display Retina Logo in Theme Setting"
+msgstr "Дисплей Retina Логотип в настройках темы"
+
+#: ../lib/customizer.lib.php:1400
+msgid ""
+"Check this to replace theme setting to your logo. It helps branding your site"
+msgstr ""
+"Проверьте это, чтобы заменить настройки темы на ваш логотип. Это помогает "
+"брендинг вашего сайта"
+
+#: ../lib/customizer.lib.php:1409
+msgid "Retina Transparent Logo"
+msgstr "Прозрачный логотип сетчатки"
+
+#: ../lib/customizer.lib.php:1410
+msgid ""
+"Retina Ready Image logo for menu transparent page. It should be 2x size of "
+"normal logo. For example 200x60px logo will displays at 100x30px. Recommend "
+"logo color is white or bright color"
+msgstr ""
+"Логотип Retina Ready Image для прозрачной страницы меню. Он должен быть 2x "
+"размером с нормальный логотип. Например, логотип 200x60px будет отображается "
+"на 100x30px. Рекомендуем цвет логотипа белый или яркий цвет"
+
+#: ../lib/customizer.lib.php:1421
+msgid "Enable Right Click Protection"
+msgstr "Включить защиту правого клика"
+
+#: ../lib/customizer.lib.php:1422
+msgid "Check this to disable right click."
+msgstr "Проверьте это, чтобы отключить правый клик."
+
+#: ../lib/customizer.lib.php:1431
+msgid "Enable Image Dragging Protection"
+msgstr "Защита перетаскивания изображений"
+
+#: ../lib/customizer.lib.php:1432
+msgid "Check this to disable dragging on all images."
+msgstr "Проверьте это, чтобы отключить перетаскивание на всех изображениях."
+
+#: ../lib/customizer.lib.php:1441
+msgid "Body and Content Settings"
+msgstr "Настройки тела и содержимого"
+
+#: ../lib/customizer.lib.php:1449
+msgid "Main Content Font Family"
+msgstr "Семейство шрифтов основного контента"
+
+#: ../lib/customizer.lib.php:1466
+msgid "Main Content Font Size"
+msgstr "Размер шрифта основного содержимого"
+
+#: ../lib/customizer.lib.php:1484
+msgid "Main Content Font Weight"
+msgstr "Основной контент шрифт Вес"
+
+#: ../lib/customizer.lib.php:1508
+msgid "Header Settings"
+msgstr "Настройки заголовка"
+
+#: ../lib/customizer.lib.php:1516
+msgid "H1, H2, H3, H4, H5, H6 Font Family"
+msgstr "H1, H2, H3, H4, H5, H6 Font Family"
+
+#: ../lib/customizer.lib.php:1533
+msgid "H1, H2, H3, H4, H5, H6 Font Weight"
+msgstr "H1, H2, H3, H4, H5, H6 Вес шрифта"
+
+#: ../lib/customizer.lib.php:1557
+msgid "H1, H2, H3, H4, H5, H6 Font Spacing"
+msgstr "H1, H2, H3, H4, H5, H6 Расстояние шрифтов"
+
+#: ../lib/customizer.lib.php:1583
+msgid "H1 Font Size"
+msgstr "Размер шрифта H1"
+
+#: ../lib/customizer.lib.php:1600
+msgid "H2 Font Size"
+msgstr "Размер шрифта H2"
+
+#: ../lib/customizer.lib.php:1617
+msgid "H3 Font Size"
+msgstr "Размер шрифта H3"
+
+#: ../lib/customizer.lib.php:1634
+msgid "H4 Font Size"
+msgstr "Размер шрифта H4"
+
+#: ../lib/customizer.lib.php:1651
+msgid "H5 Font Size"
+msgstr "Размер шрифта H5"
+
+#: ../lib/customizer.lib.php:1668
+msgid "H6 Font Size"
+msgstr "Размер шрифта H6"
+
+#: ../lib/customizer.lib.php:1685
+msgid "Main Content Background Color"
+msgstr "Основной контент фоновый цвет"
+
+#: ../lib/customizer.lib.php:1705
+msgid "Page Content Font Color"
+msgstr "Цвет шрифта содержимого страницы"
+
+#: ../lib/customizer.lib.php:1737
+msgid "Page Content Link Color"
+msgstr "Цвет ссылок содержимого страницы"
+
+#: ../lib/customizer.lib.php:1775
+msgid "Page Content Hover Link Color"
+msgstr "Страница Содержание Нагора ссылка Цвет"
+
+#: ../lib/customizer.lib.php:1813
+msgid "H1, H2, H3, H4, H5, H6 Font Color"
+msgstr "H1, H2, H3, H4, H5, H6 Цвет шрифта"
+
+#: ../lib/customizer.lib.php:1833
+msgid "Horizontal Line Color"
+msgstr "Горизонтальный цвет линии"
+
+#: ../lib/customizer.lib.php:1856
+msgid "Review Stars Color"
+msgstr "Обзор Цвета Звезд"
+
+#: ../lib/customizer.lib.php:1886
+msgid "Tour Label Color"
+msgstr "Цвет этикетки тура"
+
+#: ../lib/customizer.lib.php:1908
+msgid "Input and Textarea Settings"
+msgstr "Настройки ввода и текстарея"
+
+#: ../lib/customizer.lib.php:1916
+msgid "Input and Textarea Background Color"
+msgstr "Входной и Текстуреа Фоновый цвет"
+
+#: ../lib/customizer.lib.php:1932
+msgid "Input and Textarea Font Color"
+msgstr "Входной и Текстуреа Шрифт Цвет"
+
+#: ../lib/customizer.lib.php:1948
+msgid "Input and Textarea Border Color"
+msgstr "Входной и Текстуреа Пограничный цвет"
+
+#: ../lib/customizer.lib.php:1964
+msgid "Input and Textarea Focus State Color"
+msgstr "Вход и Textarea Фокус Состояние Цвет"
+
+#: ../lib/customizer.lib.php:1980
+msgid "Button Settings"
+msgstr "Настройки кнопки"
+
+#: ../lib/customizer.lib.php:1988
+msgid "Button Font Family"
+msgstr "Семейство кнопок шрифтов"
+
+#: ../lib/customizer.lib.php:2005
+msgid "Button Background Color"
+msgstr "Цвет фона кнопки"
+
+#: ../lib/customizer.lib.php:2055
+msgid "Button Font Color"
+msgstr "Цвет шрифта кнопки"
+
+#: ../lib/customizer.lib.php:2078
+msgid "Button Border Color"
+msgstr "Кнопка пограничный цвет"
+
+#: ../lib/customizer.lib.php:2101
+msgid "Enable Responsive Layout"
+msgstr "Включить ответственный макет"
+
+#: ../lib/customizer.lib.php:2102
+msgid "Check this to enable responsive layout for tablet and mobile devices."
+msgstr ""
+"Проверьте это, чтобы включить отзывчивую компоновку для планшетов и "
+"мобильных устройств."
+
+#: ../lib/customizer.lib.php:2111
+msgid "Enable Frame"
+msgstr "Включить раму"
+
+#: ../lib/customizer.lib.php:2112
+msgid "Check this to enable frame for site layout"
+msgstr "Проверьте это, чтобы включить кадр для макета сайта"
+
+#: ../lib/customizer.lib.php:2121
+msgid "Frame Color"
+msgstr "Цвет рамы"
+
+#: ../lib/customizer.lib.php:2137
+msgid "Enable Boxed Layout"
+msgstr "Включить коробчатый макет"
+
+#: ../lib/customizer.lib.php:2138
+msgid "Check this to enable boxed layout for site layout"
+msgstr "Проверьте это, чтобы включить макет коробки для макета сайта"
+
+#: ../lib/customizer.lib.php:2170
+msgid "Upload background image for boxed layout"
+msgstr "Загрузка фонового изображения для коробочной компоновки"
+
+#: ../lib/customizer.lib.php:2181
+msgid "Menu Layout"
+msgstr "Меню Layout"
+
+#: ../lib/customizer.lib.php:2191
+msgid "Enable Sticky Menu"
+msgstr "Включить липкое меню"
+
+#: ../lib/customizer.lib.php:2192
+msgid "Enable this option to display main menu fixed when scrolling"
+msgstr ""
+"Включить эту опцию для отображения основного меню фиксированной при прокрутке"
+
+#: ../lib/customizer.lib.php:2201
+msgid "Enable Smart Sticky Menu"
+msgstr "Включить умное липкое меню"
+
+#: ../lib/customizer.lib.php:2202
+msgid ""
+"Enable this option to make menu displays when scroll down and hide when "
+"scroll up"
+msgstr ""
+"Включить эту опцию, чтобы сделать меню отображает при прокрутке вниз и "
+"скрыть при прокрутке вверх"
+
+#: ../lib/customizer.lib.php:2211
+msgid "Menu Font Family"
+msgstr "Семейство шрифтов меню"
+
+#: ../lib/customizer.lib.php:2228
+msgid "Menu Font Size"
+msgstr "Размер шрифта меню"
+
+#: ../lib/customizer.lib.php:2246
+msgid "Menu Padding"
+msgstr "Меню Подкладка"
+
+#: ../lib/customizer.lib.php:2269
+msgid "Menu Font Weight"
+msgstr "Меню шрифт Вес"
+
+#: ../lib/customizer.lib.php:2286
+msgid "Menu Font Spacing"
+msgstr "Расстояние от шрифта меню"
+
+#: ../lib/customizer.lib.php:2304
+msgid "Menu Font Text Transform"
+msgstr "Меню шрифт Текст Преобразование"
+
+#: ../lib/customizer.lib.php:2321
+msgid "Menu Background"
+msgstr "Справочная информация о меню"
+
+#: ../lib/customizer.lib.php:2344
+msgid "Menu Font Color"
+msgstr "Цвет шрифта меню"
+
+#: ../lib/customizer.lib.php:2364
+msgid "Menu Hover State Font Color"
+msgstr "Меню Hover состояние шрифта Цвет"
+
+#: ../lib/customizer.lib.php:2380
+msgid "Menu Active State Font Color"
+msgstr "Меню Активный цвет шрифта состояния"
+
+#: ../lib/customizer.lib.php:2396
+msgid "Menu Bar Border Color"
+msgstr "Меню Бар Пограничный цвет"
+
+#: ../lib/customizer.lib.php:2412 ../lib/customizer.lib.php:2714
+msgid "Typography Settings"
+msgstr "Настройки типографии"
+
+#: ../lib/customizer.lib.php:2420
+msgid "SubMenu Font Size"
+msgstr "Размер шрифта SubMenu"
+
+#: ../lib/customizer.lib.php:2438
+msgid "SubMenu Font Weight"
+msgstr "Вес шрифта SubMenu"
+
+#: ../lib/customizer.lib.php:2455
+msgid "SubMenu Font Spacing"
+msgstr "Расстояние между шрифтами SubMenu"
+
+#: ../lib/customizer.lib.php:2473
+msgid "SubMenu Font Text Transform"
+msgstr "Преобразование текста шрифта SubMenu"
+
+#: ../lib/customizer.lib.php:2490 ../lib/customizer.lib.php:2867
+msgid "Color Settings"
+msgstr "Настройки цвета"
+
+#: ../lib/customizer.lib.php:2498
+msgid "Sub Menu Font Color"
+msgstr "Цвет шрифта Под меню"
+
+#: ../lib/customizer.lib.php:2514
+msgid "Sub Menu Hover State Font Color"
+msgstr "Sub Меню Ховер цвет шрифта государства"
+
+#: ../lib/customizer.lib.php:2530
+msgid "Sub Menu Hover State Background Color"
+msgstr "Суб Меню Ховер состояние фоновый цвет"
+
+#: ../lib/customizer.lib.php:2546
+msgid "Sub Menu Background Color"
+msgstr "Под меню фоновый цвет"
+
+#: ../lib/customizer.lib.php:2562
+msgid "Sub Menu Border Color"
+msgstr "Суб-меню пограничный цвет"
+
+#: ../lib/customizer.lib.php:2578
+msgid "Mega Menu Header Font Color"
+msgstr "Мега Меню Заголовок шрифта Цвет"
+
+#: ../lib/customizer.lib.php:2594
+msgid "Mega Menu Border Color"
+msgstr "Мега Меню Пограничный цвет"
+
+#: ../lib/customizer.lib.php:2610
+msgid "Display Top Bar"
+msgstr "Дисплей Верхний бар"
+
+#: ../lib/customizer.lib.php:2611
+msgid "Enable this option to display top bar above main menu"
+msgstr "Включить эту опцию для отображения верхней панели над основным меню"
+
+#: ../lib/customizer.lib.php:2620
+msgid "Top Bar Background Color"
+msgstr "Верхний бар фоновый цвет"
+
+#: ../lib/customizer.lib.php:2636
+msgid "Top Bar Menu Font Color"
+msgstr "Цвет шрифта меню Верхнего бара"
+
+#: ../lib/customizer.lib.php:2652
+msgid "Contact Hours (Optional)"
+msgstr "Часы контакта (необязательно)"
+
+#: ../lib/customizer.lib.php:2653
+msgid "Enter your company contact hours."
+msgstr "Введите часы контакта вашей компании."
+
+#: ../lib/customizer.lib.php:2663
+msgid "Contact Phone Number (Optional)"
+msgstr "Контактный номер телефона (необязательно)"
+
+#: ../lib/customizer.lib.php:2664
+msgid "Enter your company contact phone number."
+msgstr "Введите контактный номер телефона вашей компании."
+
+#: ../lib/customizer.lib.php:2674
+msgid "Open Top Bar Social Icons link in new window"
+msgstr "Открыть Top Bar Социальные иконки ссылку в новом окне"
+
+#: ../lib/customizer.lib.php:2675
+msgid "Check this to open top bar social icons link in new window"
+msgstr ""
+"Проверьте это, чтобы открыть верхнюю панель социальных иконок ссылку в новом "
+"окне"
+
+#: ../lib/customizer.lib.php:2684
+msgid "Enable Side Menu on Desktop"
+msgstr "Включить боковое меню на рабочем столе"
+
+#: ../lib/customizer.lib.php:2694
+msgid "Side Menu Alignment"
+msgstr "Выравнивание бокового меню"
+
+#: ../lib/customizer.lib.php:2704
+msgid "Side Menu Overlay Effect"
+msgstr "Эффект наложения бокового меню"
+
+#: ../lib/customizer.lib.php:2722
+msgid "Side Menu Font Family"
+msgstr "Семейство шрифтов бокового меню"
+
+#: ../lib/customizer.lib.php:2739
+msgid "Side Menu Font Size"
+msgstr "Размер шрифта бокового меню"
+
+#: ../lib/customizer.lib.php:2757
+msgid "Side Menu Line Height (em)"
+msgstr "Высота боковой линии меню (em)"
+
+#: ../lib/customizer.lib.php:2783
+msgid "Side Menu Font Weight"
+msgstr "Вес шрифта бокового меню"
+
+#: ../lib/customizer.lib.php:2807
+msgid "Side Menu Font Text Transform"
+msgstr "Боковое меню шрифт Текст Преобразование"
+
+#: ../lib/customizer.lib.php:2824
+msgid "Side Menu Font Spacing"
+msgstr "Боковое меню расстояние шрифта"
+
+#: ../lib/customizer.lib.php:2842
+msgid "Side Menu Text Alignment"
+msgstr "Боковое меню Текст Выравнивание"
+
+#: ../lib/customizer.lib.php:2875
+msgid "Side Menu Background"
+msgstr "Справочное меню Фон"
+
+#: ../lib/customizer.lib.php:2897
+msgid "Side Menu Background Opacity"
+msgstr "Боковое меню Фон Непрозрачность"
+
+#: ../lib/customizer.lib.php:2907
+msgid "Side Menu Font Color"
+msgstr "Цвет шрифта бокового меню"
+
+#: ../lib/customizer.lib.php:2923
+msgid "Side Menu Hover State Font Color"
+msgstr "Боковое меню Hover цвет государственного шрифта"
+
+#: ../lib/customizer.lib.php:2939
+msgid "Search Settings"
+msgstr "Настройки поиска"
+
+#: ../lib/customizer.lib.php:2947
+msgid "Enable Search"
+msgstr "Включить поиск"
+
+#: ../lib/customizer.lib.php:2948
+msgid "Select to display search form in header of side menu"
+msgstr "Выберите форму поиска в заголовке бокового меню"
+
+#: ../lib/customizer.lib.php:2957
+msgid "Search Input Background Color"
+msgstr "Цвет фона ввода поиска"
+
+#: ../lib/customizer.lib.php:2973
+msgid "Search Input Font Color"
+msgstr "Цвет шрифта ввода поиска"
+
+#: ../lib/customizer.lib.php:3003
+msgid "Background Image Settings"
+msgstr "Настройки фонового изображения"
+
+#: ../lib/customizer.lib.php:3011
+msgid "Page Title Background Image Height (in pixels)"
+msgstr "Высота фонового изображения заголовка страницы (в пикселях)"
+
+#: ../lib/customizer.lib.php:3029
+msgid "Page Title Background Image Margin Bottom (in pixels)"
+msgstr "Страница Название фоновое изображение Маржа Нижняя дно (в пикселях)"
+
+#: ../lib/customizer.lib.php:3047
+msgid "Add Parallax Effect When Scroll"
+msgstr "Добавить эффект Параллакса при прокрутке"
+
+#: ../lib/customizer.lib.php:3048
+msgid ""
+"Enable this option to add parallax effect to header background image when "
+"scrolling pass it"
+msgstr ""
+"Включить эту опцию, чтобы добавить эффект параллакса к фоновое изображение "
+"заголовка при прокрутке передать его"
+
+#: ../lib/customizer.lib.php:3057
+msgid "Background Color Settings"
+msgstr "Настройки цвета фона"
+
+#: ../lib/customizer.lib.php:3065
+msgid "Page Header Background Color"
+msgstr "Цвет фона заголовка страницы"
+
+#: ../lib/customizer.lib.php:3081
+msgid "Page Header Padding Top"
+msgstr "Заголовок страницы Обивка Топ"
+
+#: ../lib/customizer.lib.php:3099
+msgid "Page Header Padding Bottom"
+msgstr "Страница заголовок Прокладка дно"
+
+#: ../lib/customizer.lib.php:3117
+msgid "Page Title Font Family"
+msgstr "Семейство шрифтов заголовков страниц"
+
+#: ../lib/customizer.lib.php:3134 ../lib/customizer.lib.php:3395
+msgid "Page Title Font Size"
+msgstr "Размер шрифта заголовка страницы"
+
+#: ../lib/customizer.lib.php:3152
+msgid "Page Title Font Weight"
+msgstr "Вес шрифта заголовка страницы"
+
+#: ../lib/customizer.lib.php:3169
+msgid "Page Title Line Height (em)"
+msgstr "Высота заголовка страницы (em)"
+
+#: ../lib/customizer.lib.php:3195
+msgid "Page Title Text Transform"
+msgstr "Преобразование текста заголовка страницы"
+
+#: ../lib/customizer.lib.php:3212
+msgid "Page Title Font Spacing"
+msgstr "Расстояние между шрифтами заголовка страницы"
+
+#: ../lib/customizer.lib.php:3230
+msgid "Page Title Font Color"
+msgstr "Цвет шрифта заголовка страницы"
+
+#: ../lib/customizer.lib.php:3246
+msgid "Page Title Text Vertical Alignment"
+msgstr "Текст текста страницы Вертикальное выравнивание"
+
+#: ../lib/customizer.lib.php:3255
+msgid "Content Builder Header Font Family"
+msgstr "Содержимое Builder Заголовок шрифт семьи"
+
+#: ../lib/customizer.lib.php:3272
+msgid " Content Builder Header Font Size"
+msgstr "Галерея"
+
+#: ../lib/customizer.lib.php:3298
+msgid "Content Builder Header Font Weight"
+msgstr "Содержимое Builder Заголовок шрифт Вес"
+
+#: ../lib/customizer.lib.php:3322
+msgid "Content Builder Header Text Transform"
+msgstr "Содержимое Builder Заголовок Текст Преобразование"
+
+#: ../lib/customizer.lib.php:3346
+msgid "Content Builder Header Font Spacing"
+msgstr "Содержимое Builder Заголовок расстояние шрифта"
+
+#: ../lib/customizer.lib.php:3372
+msgid "Page Tagline Font Color"
+msgstr "Цвет шрифта Tagline"
+
+#: ../lib/customizer.lib.php:3413
+msgid "Page Tagline Font Weight"
+msgstr "Вес шрифта Tagline Страницы"
+
+#: ../lib/customizer.lib.php:3430
+msgid "Page Tagline Font Spacing"
+msgstr "Расстояние между тегами страницы"
+
+#: ../lib/customizer.lib.php:3448
+msgid "Page Tagline Text Transform"
+msgstr "Страница Слоган Текст Преобразование"
+
+#: ../lib/customizer.lib.php:3466
+msgid "Enable Sticky Sidebar"
+msgstr "Включить липкую бокову панель"
+
+#: ../lib/customizer.lib.php:3467
+msgid "Check this to displays sidebar fixed when scrolling."
+msgstr ""
+"Проверьте это для отображения боковой панели фиксированной при прокрутке."
+
+#: ../lib/customizer.lib.php:3476
+msgid "Widget Title Font Family"
+msgstr "Виджет Название шрифт семьи"
+
+#: ../lib/customizer.lib.php:3493
+msgid "Widget Title Font Size"
+msgstr "Виджет Название шрифт размер"
+
+#: ../lib/customizer.lib.php:3511
+msgid "Widget Title Font Weight"
+msgstr "Виджет Название шрифт Вес"
+
+#: ../lib/customizer.lib.php:3528
+msgid "Widget Title Font Spacing"
+msgstr "Виджет Название шрифт расстояние"
+
+#: ../lib/customizer.lib.php:3546
+msgid "Widget Title Text Transform"
+msgstr "Виджет Название Текст Преобразование"
+
+#: ../lib/customizer.lib.php:3563
+msgid "Sidebar Font Color"
+msgstr "Цвет шрифта боковой панели"
+
+#: ../lib/customizer.lib.php:3579
+msgid "Sidebar Link Color"
+msgstr "Цвет боковой связи"
+
+#: ../lib/customizer.lib.php:3595
+msgid "Sidebar Hover Link Color"
+msgstr "Боковой гоуменка ссылка Цвет"
+
+#: ../lib/customizer.lib.php:3611
+msgid "Sidebar Widget Title Font Color"
+msgstr "Боковой виджет Название шрифт цвет"
+
+#: ../lib/customizer.lib.php:3630
+msgid "Footer Sidebar Columns"
+msgstr "Колоны с боковой панелью"
+
+#: ../lib/customizer.lib.php:3640
+msgid "Open Footer Social Icons link in new window"
+msgstr "Открытый Footer Социальные иконки ссылку в новом окне"
+
+#: ../lib/customizer.lib.php:3641
+msgid "Check this to open footer social icons link in new window"
+msgstr ""
+"Проверьте это, чтобы открыть колонтитул социальных иконок ссылку в новом окне"
+
+#: ../lib/customizer.lib.php:3650
+msgid "Footer Background"
+msgstr "Footer фон"
+
+#: ../lib/customizer.lib.php:3672
+msgid "Footer Font Color"
+msgstr "Цвет шрифта Footer"
+
+#: ../lib/customizer.lib.php:3688
+msgid "Footer Link Color"
+msgstr "Цвет Footer Link"
+
+#: ../lib/customizer.lib.php:3711
+msgid "Footer Hover Link Color"
+msgstr "Footer Hover ссылка цвет"
+
+#: ../lib/customizer.lib.php:3727
+msgid "Footer Border Color"
+msgstr "Цвет границы Footer"
+
+#: ../lib/customizer.lib.php:3750
+msgid "Footer Social Icon Color"
+msgstr "Footer Социальная икона Цвет"
+
+#: ../lib/customizer.lib.php:3766
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: ../lib/customizer.lib.php:3767
+msgid "Enter your copyright text."
+msgstr "Введите свой текст авторского права."
+
+#: ../lib/customizer.lib.php:3777
+msgid "Copyright Right Area Content"
+msgstr "Содержание области авторского права"
+
+#: ../lib/customizer.lib.php:3787
+msgid "Go To Top Button"
+msgstr "Перейти к верхней кнопке"
+
+#: ../lib/customizer.lib.php:3800
+msgid "Global Settings"
+msgstr "Глобальные настройки"
+
+#: ../lib/customizer.lib.php:3808
+msgid "Gallery Images Sorting"
+msgstr "Галерея Изображения Сортировка"
+
+#: ../lib/customizer.lib.php:3819
+msgid "Select lightbox skin color"
+msgstr "Выберите цвет кожи лайтбокса"
+
+#: ../lib/customizer.lib.php:3820
+msgid "Select which skin you want to use for lightbox"
+msgstr "Выберите, какую кожу вы хотите использовать для лайтбокса"
+
+#: ../lib/customizer.lib.php:3830
+msgid "Display image caption in lightbox"
+msgstr "Правообладатель иллюстрации Image caption В лайтбоксе"
+
+#: ../lib/customizer.lib.php:3831
+msgid ""
+"Check if you want to display image caption under the image in lightbox mode"
+msgstr ""
+"Проверьте, хотите ли вы отобразить изображение под изображением в режиме "
+"лайтбокса"
+
+#: ../lib/customizer.lib.php:3840
+msgid "Select lightbox thumbnails alignment"
+msgstr "Выберите выравнивание эскизов лайтбокса"
+
+#: ../lib/customizer.lib.php:3841
+msgid "Select which alignment you want to use for lightbox thumbnails"
+msgstr ""
+"Выберите, какое выравнивание вы хотите использовать для эскизов лайтбокса"
+
+#: ../lib/customizer.lib.php:3851
+msgid "Lightbox Overlay Opacity"
+msgstr "Lightbox Наложение Непрозрачность"
+
+#: ../lib/customizer.lib.php:3865
+msgid "Currency Settings"
+msgstr "Настройки валюты"
+
+#: ../lib/customizer.lib.php:3873
+msgid "Currency"
+msgstr "Валюты"
+
+#: ../lib/customizer.lib.php:3874
+msgid "Enter default tour pricing currency."
+msgstr "Введите валюту ценообразования тур по умолчанию."
+
+#: ../lib/customizer.lib.php:3883
+msgid "Currency Display"
+msgstr "Отображение валюты"
+
+#: ../lib/customizer.lib.php:3884
+msgid "Select how currency display between tour price"
+msgstr "Выберите, как отображение валюты между ценой тура"
+
+#: ../lib/customizer.lib.php:3897
+msgid "Thousand Separator"
+msgstr "Тысяча сепараторов"
+
+#: ../lib/customizer.lib.php:3898
+msgid "Enter thousand separator of displayed price."
+msgstr "Введите тысячу сепаратор отображаемой цены."
+
+#: ../lib/customizer.lib.php:3907
+msgid "Decimal Separator"
+msgstr "Десятичное сепаратор"
+
+#: ../lib/customizer.lib.php:3908
+msgid "Enter decimal separator of displayed price."
+msgstr "Введите десятичную сепаратор от отображаемой цены."
+
+#: ../lib/customizer.lib.php:3917
+msgid "Number of Separator"
+msgstr "Количество сепараторов"
+
+#: ../lib/customizer.lib.php:3918
+msgid "Enter number of decimal points for displayed price."
+msgstr "Введите количество десятичных точек для отображенной цены."
+
+#: ../lib/customizer.lib.php:3927
+msgid "Other Settings"
+msgstr "Другие настройки"
+
+#: ../lib/customizer.lib.php:3935
+msgid "Enable Recently View Tours"
+msgstr "Включить недавно просмотр туров"
+
+#: ../lib/customizer.lib.php:3936
+msgid "Check this option to enable recently view tours before footer"
+msgstr ""
+"Проверьте эту опцию, чтобы включить недавно просматривать туры перед "
+"колонтитулом"
+
+#: ../lib/customizer.lib.php:3945
+msgid "Enable Advanced Search"
+msgstr "Включить расширенный поиск"
+
+#: ../lib/customizer.lib.php:3946
+msgid ""
+"Check this option to enable advanced search options for tour search form"
+msgstr ""
+"Проверьте эту опцию, чтобы включить расширенные варианты поиска формы поиска "
+"тура"
+
+#: ../lib/customizer.lib.php:3955
+msgid "Default Tour Search Form Margin Top"
+msgstr "По умолчанию Тур Поиск Форма Маржа Top"
+
+#: ../lib/customizer.lib.php:3982
+msgid "When tour is booked. Redirect to"
+msgstr "Когда тур забронирован. Перенаправление на"
+
+#: ../lib/customizer.lib.php:3983
+msgid ""
+"Select page to be redirected to when customer book tour using Woocommerce "
+"booking option"
+msgstr ""
+"Выберите страницу, на которую следует перенаправить, когда тур по заказу "
+"клиентов с помощью опции бронирования Woocommerce"
+
+#: ../lib/customizer.lib.php:3996
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: ../lib/customizer.lib.php:4004
+msgid "Display Tour Header Content"
+msgstr "Отображение заголовок тура"
+
+#: ../lib/customizer.lib.php:4005
+msgid "Check this option to display tour header content in single tour page"
+msgstr ""
+"Проверьте эту опцию для отображения содержимого заголовка тура на одной "
+"странице тура"
+
+#: ../lib/customizer.lib.php:4014
+msgid "Enable Tour Review"
+msgstr "Обзор тура"
+
+#: ../lib/customizer.lib.php:4015
+msgid "Check this option to enable tour review"
+msgstr "Проверьте эту опцию, чтобы включить обзор тура"
+
+#: ../lib/customizer.lib.php:4024
+msgid "Enable Tour Sharing"
+msgstr "Включить совместное использование туров"
+
+#: ../lib/customizer.lib.php:4025
+msgid "Check this option to enable tour sharing"
+msgstr "Проверьте эту опцию, чтобы включить совместное использование туров"
+
+#: ../lib/customizer.lib.php:4034
+msgid "Display Related Tours"
+msgstr "Отображение связанных туров"
+
+#: ../lib/customizer.lib.php:4035
+msgid "Check this option to display related tours on single tour page"
+msgstr "Проверьте эту опцию отображения связанных туров на одной странице тура"
+
+#: ../lib/customizer.lib.php:4044
+msgid "Related Tours Layouts"
+msgstr "Похожие туры Layouts"
+
+#: ../lib/customizer.lib.php:4054
+msgid "Map Marker"
+msgstr "Карта Маркер"
+
+#: ../lib/customizer.lib.php:4055
+msgid "Select map marker for tour map address"
+msgstr "Выберите маркер карты для адреса карты тура"
+
+#: ../lib/customizer.lib.php:4064
+msgid "SEO Settings"
+msgstr "SEO Настройки"
+
+#: ../lib/customizer.lib.php:4072
+msgid "Google Review Rating"
+msgstr "Рейтинг Google Review"
+
+#: ../lib/customizer.lib.php:4073
+msgid "Check this option to add support rating on Google search results"
+msgstr ""
+"Проверьте эту опцию, чтобы добавить рейтинг поддержки в результатах поиска "
+"Google"
+
+#: ../lib/customizer.lib.php:4082
+msgid "Mobile Settings"
+msgstr "Мобильные настройки"
+
+#: ../lib/customizer.lib.php:4090
+msgid "Content and Sidebar"
+msgstr "Содержимое и боковая панель"
+
+#: ../lib/customizer.lib.php:4100
+msgid "Display Destination related tours before or after its content"
+msgstr ""
+"Отображение экскурсий, связанных с пунктом назначения, до или после его "
+"содержания"
+
+#: ../lib/customizer.lib.php:4113
+msgid "Display Full Blog Post Content"
+msgstr "Отображение полного содержания блога"
+
+#: ../lib/customizer.lib.php:4114
+msgid ""
+"Check this option to display post full content in blog page (excerpt blog "
+"grid layout)"
+msgstr ""
+"Проверьте эту опцию для отображения поста полное содержание в блоге страницы "
+"(выдержка блоге сетки макет)"
+
+#: ../lib/customizer.lib.php:4123
+msgid "Archive Page Layout"
+msgstr "Расположение страницы архива"
+
+#: ../lib/customizer.lib.php:4124
+msgid "Select page layout for displaying archive page"
+msgstr "Выберите макет страницы для отображения страницы архива"
+
+#: ../lib/customizer.lib.php:4134
+msgid "Category Page Layout"
+msgstr "Категория Страница Layout"
+
+#: ../lib/customizer.lib.php:4135
+msgid "Select page layout for displaying category page"
+msgstr "Выберите макет страницы для отображения страницы категории"
+
+#: ../lib/customizer.lib.php:4145
+msgid "Tag Page Layout"
+msgstr "Тег Страница Макет"
+
+#: ../lib/customizer.lib.php:4146
+msgid "Select page layout for displaying tag page"
+msgstr "Выберите макет страницы для отображения страницы тегов"
+
+#: ../lib/customizer.lib.php:4156
+msgid "Display Post Featured Content"
+msgstr "Отображение пост-рекомендуемый контент"
+
+#: ../lib/customizer.lib.php:4157
+msgid ""
+"Check this to display featured content (image or gallery) in single post page"
+msgstr ""
+"Проверьте это для отображения содержимого признакам (изображение или галерея)"
+" в одной странице поста"
+
+#: ../lib/customizer.lib.php:4166
+msgid "Display Post Tags"
+msgstr "Теги отображения поста"
+
+#: ../lib/customizer.lib.php:4167
+msgid "Check this option to display post tags on single post page"
+msgstr "Проверьте эту опцию для отображения тегов на одной странице поста"
+
+#: ../lib/customizer.lib.php:4176
+msgid "Display About Author"
+msgstr "Дисплей об авторе"
+
+#: ../lib/customizer.lib.php:4177
+msgid "Check this option to display about author on single post page"
+msgstr "Проверьте эту опцию для отображения об авторе на одной странице поста"
+
+#: ../lib/customizer.lib.php:4186
+msgid "Display Related Posts"
+msgstr "Отображение похожие сообщения"
+
+#: ../lib/customizer.lib.php:4187
+msgid "Check this option to display related posts on single post page"
+msgstr ""
+"Проверьте эту опцию для отображения соответствующих сообщений на одной "
+"странице публикации"
+
+#: ../lib/customizer.lib.php:4201
+msgid "Shop Main Page Layout"
+msgstr "Магазин Главная страница Layout"
+
+#: ../lib/customizer.lib.php:4202
+msgid "Select page layout for displaying shop's products page"
+msgstr "Выберите макет страницы для отображения страницы продуктов магазина"
+
+#: ../lib/customizer.lib.php:4212
+msgid "Products Page Show At Most"
+msgstr "Продукты Страница Показать в лучшем случае"
+
+#: ../lib/customizer.lib.php:4213
+msgid "Select number of product items you want to display per page"
+msgstr ""
+"Выберите количество элементов продукта, которые вы хотите отобразить на "
+"странице"
+
+#: ../lib/customizer.lib.php:4223
+msgid "Product Price Font Color"
+msgstr "Цвет шрифта цена продукта"
+
+#: ../lib/customizer.lib.php:4239
+msgid "Display Related Products"
+msgstr "Отображение связанных продуктов"
+
+#: ../lib/customizer.lib.php:4240
+msgid "Check this option to display related products on single product page"
+msgstr ""
+"Проверьте эту опцию для отображения сопутствующих продуктов на одной "
+"странице продукта"
+
+#: ../lib/gutenberg.lib.php:40
+#, php-format
+msgid "Edit &#8220;%s&#8221; in the Gutenberg editor"
+msgstr "Редактировать \"%s\" в редакторе Гутенберга"
+
+#: ../lib/gutenberg.lib.php:44
+msgid "Gutenberg Editor"
+msgstr "Редактор Гутенберга"
+
+#: ../lib/gutenberg.lib.php:52
+#, php-format
+msgid "Edit &#8220;%s&#8221; in the Classic editor"
+msgstr "Редактировать \"%s\" в классический редактор"
+
+#: ../lib/gutenberg.lib.php:56
+msgid "Classic Editor"
+msgstr "Классический редактор"
+
+#: ../lib/menu.lib.php:7
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: ../lib/menu.lib.php:11
+msgid "Demo Primary Menu"
+msgstr "Демо Первоначальное меню"
+
+#: ../lib/menu.lib.php:14
+msgid "Secondary Menu"
+msgstr "Вторичное меню"
+
+#: ../lib/menu.lib.php:15
+msgid "Top Bar Menu"
+msgstr "Меню верхнего бара"
+
+#: ../lib/menu.lib.php:16
+msgid "Side (Mobile) Menu"
+msgstr "Боковое (мобильное) меню"
+
+#: ../lib/menu.lib.php:17
+msgid "Footer Menu"
+msgstr "Меню для ног"
+
+#: ../lib/tgm.lib.php:148 ../modules/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Установка необходимых плагинов"
+
+#: ../lib/tgm.lib.php:149 ../modules/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Установка плагинов"
+
+#: ../lib/tgm.lib.php:150 ../modules/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: ../lib/tgm.lib.php:151 ../modules/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с плагином API."
+
+#: ../lib/tgm.lib.php:152 ../modules/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Возвращение к требуемой установке плагинов"
+
+#: ../lib/tgm.lib.php:153 ../modules/class-tgm-plugin-activation.php:394
+#: ../modules/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: ../lib/tgm.lib.php:154
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Все плагины установлены и активированы успешно. %s"
+
+#: ../lib/theme.filter.lib.php:151
+msgid "Demo Import"
+msgstr "Демо-импорт"
+
+#: ../lib/theme.filter.lib.php:152
+msgid "Import Demo Content"
+msgstr "Импорт демо-контент"
+
+#: ../lib/widgets.lib.php:440
+msgid "Title:"
+msgstr "Название:"
+
+#: ../lib/widgets.lib.php:444
+msgid "Profile Image:"
+msgstr "Профиль изображение:"
+
+#: ../lib/widgets.lib.php:446
+msgid "Select Image"
+msgstr "Выберите изображение"
+
+#: ../lib/widgets.lib.php:450
+msgid "Description:"
+msgstr "Описание:"
+
+#: ../lib/widgets.lib.php:667
+msgid "Items:"
+msgstr "Элементы:"
+
+#: ../lib/widgets.lib.php:688
+msgid "Tour Category:"
+msgstr "Категория тура:"
+
+#: ../lib/widgets.lib.php:691
+msgid "Any Tour Category"
+msgstr "Любая категория тура"
+
+#: ../lib/widgets.lib.php:715
+msgid "Sort By:"
+msgstr "Сортировать по:"
+
+#: ../modules/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#: ../modules/class-tgm-plugin-activation.php:393
+#: ../modules/class-tgm-plugin-activation.php:912
+#: ../modules/class-tgm-plugin-activation.php:2618
+#: ../modules/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Возвращение к панели мониторинга"
+
+#: ../modules/class-tgm-plugin-activation.php:395
+#: ../modules/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr "Успешно активирован следующий плагин:"
+
+#: ../modules/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Никаких действий не принято. Плагин %1$s уже был активен."
+
+#: ../modules/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Плагин не активирован. Для этой темы необходима более высокая версия %s. "
+"Пожалуйста, обновите плагин."
+
+#: ../modules/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и активированы успешно. %1$s"
+
+#: ../modules/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Отклонить это уведомление"
+
+#: ../modules/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Есть один или несколько необходимых или рекомендуемых плагинов для установки,"
+" обновления или активации."
+
+#: ../modules/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, свяжитесь с администратором этого сайта за помощью."
+
+#: ../modules/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: ../modules/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Удаленный пакет плагинов не содержит папку с желаемым пулем и переименование "
+"не работает."
+
+#: ../modules/class-tgm-plugin-activation.php:1019
+#: ../modules/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Пожалуйста, свяжитесь с поставщиком плагинов и попросите их упаковать их "
+"плагин в соответствии с wordPress руководящих принципов."
+
+#: ../modules/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Удаленный пакет плагинов состоит из нескольких файлов, но файлы не упакованы "
+"в папку."
+
+#: ../modules/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: ../modules/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Обязательно"
+
+#: ../modules/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: ../modules/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: ../modules/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: ../modules/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованные"
+
+#: ../modules/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: ../modules/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Установлено, но не активировано"
+
+#: ../modules/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "Активных"
+
+#: ../modules/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Обязательное обновление недоступно"
+
+#: ../modules/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: ../modules/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: ../modules/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr "Установка <span class=\"count\">(%s)</span>"
+
+#: ../modules/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr "Доступно обновление <span class=\"count\">(%s)</span>"
+
+#: ../modules/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr "Для активации <span class=\"count\">(%s)</span>"
+
+#: ../modules/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: ../modules/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Минимальная необходимая версия:"
+
+#: ../modules/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: ../modules/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: ../modules/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Плагин"
+
+#: ../modules/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Источник"
+
+#: ../modules/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "Тип"
+
+#: ../modules/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "Статус"
+
+#: ../modules/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Установка %2$s"
+
+#: ../modules/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Обновление %2$s"
+
+#: ../modules/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#: ../modules/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Обновление сообщения от автора плагина:"
+
+#: ../modules/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Установить"
+
+#: ../modules/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Активировать"
+
+#: ../modules/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Для установки плагинов не было выбрано. Никаких действий не принято."
+
+#: ../modules/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Для обновления плагинов не было выбрано. Никаких действий не принято."
+
+#: ../modules/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "В настоящее время плагины не доступны для установки."
+
+#: ../modules/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "В настоящее время плагины не доступны для обновления."
+
+#: ../modules/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Для активации плагинов не было выбрано. Никаких действий не принято."
+
+#: ../modules/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "В настоящее время плагины не доступны для активации."
+
+#: ../modules/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#: ../modules/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление Плагин %1$s (%2$d/%3$d)"
+
+#: ../modules/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ошибка произошла при установке %1$s: <strong>%2$s</strong>."
+
+#: ../modules/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалось."
+
+#: ../modules/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Начинается процесс установки и активации. Этот процесс может занять "
+"некоторое время на некоторых хостов, поэтому, пожалуйста, будьте терпеливы."
+
+#: ../modules/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+#: ../modules/class-tgm-plugin-activation.php:3594
+#: ../modules/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "Подробная информация"
+
+#: ../modules/class-tgm-plugin-activation.php:3594
+#: ../modules/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: ../modules/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации завершены."
+
+#: ../modules/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: ../modules/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Начинается процесс установки. Этот процесс может занять некоторое время на "
+"некоторых хостов, поэтому, пожалуйста, будьте терпеливы."
+
+#: ../modules/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s установлен успешно."
+
+#: ../modules/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#: ../modules/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка Плагина %1$s (%2$d/%3$d)"
+
+#: ../modules/content_builder.php:66
+msgid "Open Developer View"
+msgstr "Открытый вид разработчика"
+
+#: ../modules/content_builder.php:68
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: ../modules/content_builder.php:82
+msgid "Undo"
+msgstr "Отменить"
+
+#: ../modules/content_builder.php:84
+msgid "Redo"
+msgstr "Повторить"
+
+#: ../modules/content_builder.php:86
+msgid "Unsaved Page Content."
+msgstr "Необесправленное содержимое страницы."
+
+#: ../modules/content_builder.php:88
+msgid "Live View"
+msgstr "Вид в прямом эфире"
+
+#: ../modules/content_builder.php:90
+msgid "Classic View"
+msgstr "Классический вид"
+
+#: ../modules/content_builder.php:92
+msgid "Refresh"
+msgstr "Обновить"
+
+#: ../modules/content_builder.php:94 ../modules/content_builder.php:250
+msgid "Add Content"
+msgstr "Добавить содержимое"
+
+#: ../modules/content_builder.php:96
+msgid "Saved"
+msgstr "Сохранено"
+
+#: ../modules/content_builder.php:96
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: ../modules/content_builder.php:98
+msgid "Content Builder Documentation"
+msgstr "Документация строителя контента"
+
+#: ../modules/content_builder.php:130
+msgid "You are editing"
+msgstr "Вы редактируете"
+
+#: ../modules/content_builder.php:208
+msgid "Increase Size"
+msgstr "Увеличение размера"
+
+#: ../modules/content_builder.php:209
+msgid "Decrease Size"
+msgstr "Уменьшение размера"
+
+#: ../modules/content_builder.php:243
+msgid "Get started"
+msgstr "Начать работу"
+
+#: ../modules/content_builder.php:244
+msgid ""
+"Currently you have no content. Start adding content by clicking button below"
+msgstr ""
+"В настоящее время у вас нет содержания. Начните добавлять содержимое, нажав "
+"кнопку ниже"
+
+#: ../modules/content_builder.php:257
+msgid "Import Template"
+msgstr "Импорт шаблон"
+
+#: ../modules/content_builder.php:272
+msgid "Import"
+msgstr "Импорт"
+
+#: ../modules/content_builder.php:273
+msgid "Export"
+msgstr "Экспорт"
+
+#: ../modules/content_builder.php:277
+msgid "Import Page Content Builder"
+msgstr "Строитель контента импортной страницы"
+
+#: ../modules/content_builder.php:278
+msgid ""
+"Choose the import file. *Note: Your current content builder content will be "
+"overwritten by imported data"
+msgstr ""
+"Выберите файл импорта. Примечание: Ваш текущий контент-строитель будет "
+"перезаписан импортированными данными"
+
+#: ../modules/content_builder.php:288
+msgid "Export Current Page Content Builder"
+msgstr "Экспорт Текущий Страница Контент Builder"
+
+#: ../modules/content_builder.php:289
+msgid ""
+"Click to export current content builder data. *Note: Please make sure you "
+"save all changes and no \"unsaved\" module"
+msgstr ""
+"Нажмите, чтобы экспортировать текущие данные о строителе контента. "
+"Примечание: Пожалуйста, убедитесь, что вы сохраните все изменения и не "
+"\"неотвещенный\" модуль"
+
+#: ../modules/content_builder.php:313
+msgid "There are unsaved content builder settings"
+msgstr "Есть неотдержимые настройки строитель контента"
+
+#: ../modules/content_builder/template.php:11
+msgid "My Templates"
+msgstr "Мои шаблоны"
+
+#: ../modules/content_builder/template.php:12
+msgid "Predefined Templates"
+msgstr "Предопределенные шаблоны"
+
+#: ../modules/content_builder/template.php:18
+msgid "Save Current Page as Template"
+msgstr "Сохранить текущую страницу в качестве шаблона"
+
+#: ../modules/content_builder/template.php:21
+msgid "Template Name"
+msgstr "Имя шаблона"
+
+#: ../modules/content_builder/template.php:25
+msgid "Template Name must have at least 3 characters"
+msgstr "Имя шаблона должно иметь не менее 3 символов"
+
+#: ../modules/content_builder/template.php:30
+msgid "Saved Templates"
+msgstr "Сохраненные шаблоны"
+
+#: ../modules/content_builder/template.php:31
+msgid "Predefined templates are built-in theme using demo pages"
+msgstr ""
+"Предопределенные шаблоны являются встроенной темой с помощью демо-страниц"
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Пожалуйста, введите свое имя пользователя Envato Marketplace."
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Пожалуйста, введите свой ключ API Рынка Envato."
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "API \"набор\" является обязательным параметром."
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "Envato Marketplace \"элемент ID\" является обязательным параметром."
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:290
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr "Загрузка пакета обновления из ENvato API..."
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:301
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr "Загрузка пакета установки из Envato API..."
+
+#: ../modules/import/parsers.php:42 ../modules/import/parsers.php:72
+#: ../modules/import/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr "Произошла ошибка при чтении этого файла WXR"
+
+#: ../modules/import/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Подробности приведены выше. Импортер теперь будет пытаться еще раз с другой "
+"парсер ..."
+
+#: ../modules/import/parsers.php:84 ../modules/import/parsers.php:89
+#: ../modules/import/parsers.php:306 ../modules/import/parsers.php:495
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+"Это не кажется файлом WXR, отсутствует/недействительный номер версии WXR"
+
+#: ../modules/import/wordpress-importer.php:132
+#: ../modules/import/wordpress-importer.php:141
+#: ../modules/import/wordpress-importer.php:192
+#: ../modules/import/wordpress-importer.php:196
+#: ../modules/import/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr "К сожалению, произошла ошибка."
+
+#: ../modules/import/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr "Файл не существует, пожалуйста, попробуйте еще раз."
+
+#: ../modules/import/wordpress-importer.php:176
+msgid "All done."
+msgstr "Все готово."
+
+#: ../modules/import/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr "Веселитесь!"
+
+#: ../modules/import/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Не забудьте обновить пароли и роли импортированных пользователей."
+
+#: ../modules/import/wordpress-importer.php:197
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"Экспортный файл не узнать по <code>%</code>. Вполне вероятно, что это было "
+"вызвано проблемой разрешений."
+
+#: ../modules/import/wordpress-importer.php:213
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"Этот файл WXR (версия %s) не может быть поддержан этой версией импортера. "
+"Пожалуйста, рассмотрите вопрос об обновлении."
+
+#: ../modules/import/wordpress-importer.php:238
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"Не удалось импортировать автор %s. Их сообщения будут отнесены к текущему "
+"пользователю."
+
+#: ../modules/import/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr "Назначать авторов"
+
+#: ../modules/import/wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>"
+"admin</code>s entries."
+msgstr ""
+"Чтобы упростить редактирование и сохранение импортированного содержимого, "
+"можно переназначить автора импортируемого товара существующему пользователю "
+"этого сайта. Например, вы можете импортировать все записи в качестве записей "
+"<code>admin</code>s."
+
+#: ../modules/import/wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"Если новый пользователь создан WordPress, новый пароль будет случайным "
+"образом сгенерирован и роль нового пользователя будет установлена как %s. "
+"Вручную изменение деталей нового пользователя будет необходимо."
+
+#: ../modules/import/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr "Импортные вложения"
+
+#: ../modules/import/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr "Загрузка и импорт вложений файлов"
+
+#: ../modules/import/wordpress-importer.php:297
+msgid "Import author:"
+msgstr "Автор импорта:"
+
+#: ../modules/import/wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr "или создать нового пользователя с именем входа:"
+
+#: ../modules/import/wordpress-importer.php:311
+msgid "as a new user:"
+msgstr "в качестве нового пользователя:"
+
+#: ../modules/import/wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr "назначать сообщения существующему пользователю:"
+
+#: ../modules/import/wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr "или назначить сообщения существующему пользователю:"
+
+#: ../modules/import/wordpress-importer.php:322
+msgid "- Select -"
+msgstr "- Выберите -"
+
+#: ../modules/import/wordpress-importer.php:372
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"Не удалось создать нового пользователя для %s. Их сообщения будут отнесены к "
+"текущему пользователю."
+
+#: ../modules/import/wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Не удалось импортировать категорию %s"
+
+#: ../modules/import/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Не удалось импортировать пост-тег %s"
+
+#: ../modules/import/wordpress-importer.php:516
+#: ../modules/import/wordpress-importer.php:738
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Не удалось импортировать %s % s"
+
+#: ../modules/import/wordpress-importer.php:605
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Не удалось импортировать \"%s\": Инвалидная должность типа %s"
+
+#: ../modules/import/wordpress-importer.php:642
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s \"%s\" уже существует."
+
+#: ../modules/import/wordpress-importer.php:704
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Не удалось импортировать %s \"%s\""
+
+#: ../modules/import/wordpress-importer.php:869
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Пункт меню пропущен из-за отсутствия пули меню"
+
+#: ../modules/import/wordpress-importer.php:876
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Пункт меню пропущен из-за недействительного пуля меню: %s"
+
+#: ../modules/import/wordpress-importer.php:939
+msgid "Fetching attachments is not enabled"
+msgstr "Получение вложений не включено"
+
+#: ../modules/import/wordpress-importer.php:952
+msgid "Invalid file type"
+msgstr "Недействительный тип файла"
+
+#: ../modules/import/wordpress-importer.php:996
+msgid "Remote server did not respond"
+msgstr "Удаленный сервер не ответил"
+
+#: ../modules/import/wordpress-importer.php:1002
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Удаленный сервер вернул ответ на ошибку %1$d %2$s"
+
+#: ../modules/import/wordpress-importer.php:1014
+msgid "Zero size file downloaded"
+msgstr "Файл нулевого размера загружен"
+
+#: ../modules/import/wordpress-importer.php:1020
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Удаленный файл слишком велик, лимит - %с"
+
+#: ../modules/import/wordpress-importer.php:1119
+msgid "Import WordPress"
+msgstr "Импорт WordPress"
+
+#: ../modules/import/wordpress-importer.php:1126
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"Доступна новая версия этого импортера. Пожалуйста, обновите версию %s, чтобы "
+"обеспечить совместимость с новыми экспортными файлами."
+
+#: ../modules/import/wordpress-importer.php:1141
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"Как ты! Загрузите файл WordPress eXtended RSS (WXR), и мы будем "
+"импортировать сообщения, страницы, комментарии, пользовательские поля, "
+"категории и теги на этот сайт."
+
+#: ../modules/import/wordpress-importer.php:1142
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"Выберите файл WXR (.xml) для загрузки, а затем нажмите Файл загрузки и "
+"импорт."
+
+#: ../modules/import/wordpress-importer.php:1216
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and "
+"tags</strong> from a WordPress export file."
+msgstr ""
+"Импорт <strong>постки, страницы, комментарии, пользовательские поля, "
+"категории и теги</strong> из экспортного файла WordPress."
+
+#: ../modules/kirki/example.php:152
+msgid "Color Control (hex-only)"
+msgstr "Контроль цвета (только на гексе)"
+
+#: ../modules/kirki/example.php:161
+msgid "Color Control (with alpha channel)"
+msgstr "Контроль цвета (с альфа-каналом)"
+
+#: ../modules/kirki/example.php:173
+msgid "Color Control - hue only."
+msgstr "Контроль цвета - только оттенок."
+
+#: ../modules/kirki/example.php:610
+msgid "This is a sortable control."
+msgstr "Это сортируемый контроль."
+
+#: ../search.php:28
+msgid "If you didn't find what you were looking for, try a new search."
+msgstr "Если вы не нашли то, что вы искали, попробуйте новый поиск."
+
+#: ../single-destination-f.php:72 ../single-destination-r.php:73
+#: ../templates/template-tour-single-booking.php:187
+#: ../templates/template-tour-single-content.php:263
+msgid "Share this tour"
+msgstr "Поделитесь этим приключением"
+
+#: ../templates/template-author.php:13
+msgid "Posted By"
+msgstr "Опубликовано"
+
+#: ../templates/template-destination-single-related.php:43
+msgid "Related Tours"
+msgstr "Доступные приключения"
+
+#: ../templates/template-fullmenu.php:69 ../templates/template-sidemenu.php:26
+msgid "Search..."
+msgstr "Поиск..."
+
+#: ../templates/template-header.php:55
+msgid "Blog Archives"
+msgstr "Блог Архивы"
+
+#: ../templates/template-header.php:64
+#: ../templates/template-tour-search.php:156
+msgid "Search"
+msgstr "Поиск"
+
+#: ../templates/template-header.php:103
+msgid "Archive posts in "
+msgstr "Архивные сообщения в "
+
+#: ../templates/template-header.php:122
+msgid "Search Results for "
+msgstr "Результаты поиска для "
+
+#: ../templates/template-post-related.php:35
+msgid "You might also like"
+msgstr "Вы также можете"
+
+#: ../templates/template-share.php:8
+msgid "Share"
+msgstr "Предоставить общий доступ"
+
+#: ../templates/template-share.php:12
+msgid "Share On Facebook"
+msgstr "Поделиться на Facebook"
+
+#: ../templates/template-share.php:13
+msgid "Share On Twitter"
+msgstr "Поделиться на Twitter"
+
+#: ../templates/template-share.php:14
+msgid "Share On Pinterest"
+msgstr "Доля на Pinterest"
+
+#: ../templates/template-share.php:15
+msgid "Share On Google+"
+msgstr "Поделиться на Google"
+
+#: ../templates/template-share.php:16
+msgid "Share by Email"
+msgstr "Поделиться по электронной почте"
+
+#: ../templates/template-topmenu-center-menus.php:346
+#: ../templates/template-topmenu-left.php:356
+msgid "View Cart"
+msgstr "Посмотреть корзину"
+
+#: ../templates/template-topmenu-left.php:284
+msgid "Search tour by keywords"
+msgstr "Поиск тура по ключевым словам"
+
+#: ../templates/template-topmenu-left.php:319
+#: ../templates/template-topmenu.php:335
+msgid "Setup Menu via Wordpress Dashboard > Appearance > Menus"
+msgstr "Настройка Меню через Wordpress Dashboard"
+
+#: ../templates/template-tour-f-header.php:90
+#: ../templates/template-tour-f-header.php:105
+#: ../templates/template-tour-f-header.php:111
+#: ../templates/template-tour-f-header.php:123
+#: ../templates/template-tour-f-single-book.php:64
+#: ../templates/template-tour-f-single-book.php:117
+#: ../templates/template-tour-f-single-book.php:125
+#: ../templates/template-tour-f-single-book.php:139
+#: ../templates/template-tour-single-booking.php:73
+#: ../templates/template-tour-single-booking.php:126
+#: ../templates/template-tour-single-booking.php:134
+#: ../templates/template-tour-single-booking.php:148
+#: ../templates/template-tour-single-content.php:218
+#: ../templates/template-tour-single-content.php:233
+#: ../templates/template-tour-single-content.php:239
+#: ../templates/template-tour-single-content.php:251
+msgid "Book This Tour"
+msgstr "Забронировать приключение"
+
+#: ../templates/template-tour-f-header.php:105
+#: ../templates/template-tour-f-single-book.php:64
+#: ../templates/template-tour-f-single-book.php:117
+#: ../templates/template-tour-f-single-book.php:125
+#: ../templates/template-tour-single-booking.php:73
+#: ../templates/template-tour-single-booking.php:126
+#: ../templates/template-tour-single-booking.php:134
+#: ../templates/template-tour-single-content.php:233
+msgid "Please wait..."
+msgstr "Подождите..."
+
+#: ../templates/template-tour-f-header.php:143
+#: ../templates/template-tour-header.php:90
+msgid "View Photos"
+msgstr "Посмотреть фотографии"
+
+#: ../templates/template-tour-f-header.php:180
+#: ../templates/template-tour-header.php:127
+msgid "Video Preview"
+msgstr "Видео Предварительный просмотр"
+
+#: ../templates/template-tour-f-single-book.php:13
+msgid "Start from"
+msgstr "Начните с"
+
+#: ../templates/template-tour-f-single-book.php:63
+#: ../templates/template-tour-f-single-book.php:124
+#: ../templates/template-tour-single-booking.php:72
+#: ../templates/template-tour-single-booking.php:133
+msgid "Click button below to book this tour and make a payment."
+msgstr "Нажмите кнопку ниже, чтобы забронировать этот тур и сделать платеж."
+
+#: ../templates/template-tour-f-single-book.php:138
+#: ../templates/template-tour-single-booking.php:147
+msgid "Click button below to begin booking"
+msgstr "Нажмите кнопку ниже, чтобы начать бронирование"
+
+#: ../templates/template-tour-f-single-book.php:160
+#: ../templates/template-tour-single-booking.php:169
+msgid "This tour's been viewed"
+msgstr "Этот тур был просмотрен"
+
+#: ../templates/template-tour-f-single-book.php:160
+#: ../templates/template-tour-single-booking.php:169
+msgid "times in the past week"
+msgstr "раз за прошедшую неделю"
+
+#: ../templates/template-tour-header.php:163
+#: ../templates/template-tour-single-booking.php:38
+msgid "Per Person"
+msgstr "На человека"
+
+#: ../templates/template-tour-search.php:116
+msgid "Destination, city"
+msgstr "Пункт назначения, город"
+
+#: ../templates/template-tour-search.php:126
+msgid "Any Month"
+msgstr "Любой месяц"
+
+#: ../templates/template-tour-search.php:170
+msgid "All Categories"
+msgstr "Все категории"
+
+#: ../templates/template-tour-search.php:190
+msgid "Any Destinations"
+msgstr "Любые направления"
+
+#: ../templates/template-tour-search.php:216
+msgid "Max budget ex. 500"
+msgstr "Максимальный бюджет"
+
+#: ../templates/template-tour-search.php:226
+msgid "Advanced Search"
+msgstr "Расширенный поиск"
+
+#: ../templates/template-tour-single-content.php:77
+msgid "Age"
+msgstr "Возраст"
+
+#: ../templates/template-tour-single-content.php:97
+msgid "All Months"
+msgstr "Все месяцы"
+
+#: ../templates/template-tour-single-content.php:134
+msgid "Availability"
+msgstr "Доступности"
+
+#: ../templates/template-tour-single-content.php:287
+msgid "Departure"
+msgstr "Отправление"
+
+#: ../templates/template-tour-single-content.php:299
+msgid "Departure Time"
+msgstr "Время отправления"
+
+#: ../templates/template-tour-single-content.php:311
+msgid "Return Time"
+msgstr "Время возврата"
+
+#: ../templates/template-tour-single-content.php:323
+msgid "Included"
+msgstr "Включены"
+
+#: ../templates/template-tour-single-content.php:354
+msgid "Not Included"
+msgstr "Не включено"
+
+#: ../templates/template-tour-single-content.php:386
+msgid "Maps"
+msgstr "Карты"
+
+#: ../templates/template-tour-single-related.php:71
+msgid "Similar Tours"
+msgstr "Аналогичные туры"
+
+#: ../tour-2-classic-l.php:235 ../tour-2-classic-r.php:235
+#: ../tour-2-classic.php:227 ../tour-2-grid-l.php:228 ../tour-2-grid-r.php:228
+#: ../tour-2-grid.php:220 ../tour-3-classic.php:227 ../tour-3-grid.php:220
+#: ../tour-4-classic.php:227 ../tour-4-grid.php:220 ../tour-list-l.php:244
+#: ../tour-list-r.php:244
+msgid "We haven't found any tour that matches you're criteria"
+msgstr "Мы не нашли тур, который соответствует бы вам критериям"

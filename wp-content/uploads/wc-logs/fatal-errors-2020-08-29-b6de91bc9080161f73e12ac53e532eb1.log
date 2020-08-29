@@ -1,0 +1,2 @@
+2020-08-29T03:14:31+00:00 CRITICAL syntax error, unexpected 'wp_enqueue_script' (T_STRING), expecting '{' в C:\OS\OSPanel\domains\travelomg\wp-content\themes\grandtour\functions.php на строке 2632
+
